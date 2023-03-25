@@ -1,8 +1,24 @@
-# Grupo 13
-Somos el **Grupo 13** del curso de *Instrumentación a Señales Biomedicas* :smile:
+# Introducción a Señales Biomédicas Grupo 13
+Bienvenidos al repositorio del curso *Introducción a Señales Biomédicas*
+Somos el **Grupo 13** :smile:
 
 ## Integrantes:
+- (Colaborador) -
+- Mauricio Ramos Gallegos (Colaborador) - mauricio.ramos@upch.pe
+- (Colaborador) -
+- (Colaborador) -
+- (Colaborador) -
+
 [![Foto-grupal.jpg](https://i.postimg.cc/1X1hnpw6/Foto-grupal.jpg)](https://postimg.cc/xJ5FBNsT)
+
+## Tabla de Contenidos:
+- ¿Qué es una bioseñal?
+- Materiales
+- Metodología
+- Temática del proyecto
+- Contenido del curso
+- Participantes
+- Docentes del curso
 
 ## Materiales:
 1. **Arduino Nano 33 IoT**: Es una placa de desarrollo que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñanada para proyectos de Internet de las cosas (IoT) que requieren baja potencia y alta eficiencia energética.
