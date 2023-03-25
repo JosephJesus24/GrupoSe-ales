@@ -6,8 +6,8 @@ Somos el **Grupo 13** :smile:
 - Joseph Melgarejo Castillo (Colaborador) 
 - Mauricio Ramos Gallegos (Colaborador) - mauricio.ramos@upch.pe
 - Diego Celis Matias (Colaborador) 
-- Ricardo Muñoz Quiroz (Colaborador) 
-- Gabriel Narvaez Montalvo (Colaborador) 
+- Ricardo Muñoz Quiroz (Colaborador)  
+- Gabriel Narvaez Montalvo (Colaborador)  - gabriel.narvaez@upch.pe
 
 [![Foto-grupal.jpg](https://i.postimg.cc/1X1hnpw6/Foto-grupal.jpg)](https://postimg.cc/xJ5FBNsT)
 
