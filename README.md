@@ -3,11 +3,11 @@ Bienvenidos al repositorio del curso *Introducción a Señales Biomédicas*
 Somos el **Grupo 13** :smile:
 
 ## Integrantes:
-- (Colaborador) -
+- Joseph Melgarejo Castillo (Colaborador) 
 - Mauricio Ramos Gallegos (Colaborador) - mauricio.ramos@upch.pe
-- (Colaborador) -
-- (Colaborador) -
-- (Colaborador) -
+- Diego Celis Matias (Colaborador) 
+- Ricardo Muñoz Quiroz (Colaborador) 
+- Gabriel Narvaez Montalvo (Colaborador) 
 
 [![Foto-grupal.jpg](https://i.postimg.cc/1X1hnpw6/Foto-grupal.jpg)](https://postimg.cc/xJ5FBNsT)
 
