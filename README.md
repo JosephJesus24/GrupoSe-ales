@@ -1,5 +1,7 @@
 # Introducción a Señales Biomédicas Grupo 13
+
 Bienvenidos al repositorio del Grupo 13 para el curso de *Introducción a Señales Biomédicas*. Somos el **Grupo 13** :smile:, estudiantes de la carrera de ingeniería biomédica :dna: :microscope:, del _ ciclo. 
+
 
 ## Tabla de Contenidos:
 * [¿Qué es una señal?](#¿qué-es-una-señal)
