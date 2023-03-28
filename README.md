@@ -26,7 +26,7 @@ Bienvenidos al repositorio del Grupo 13 para el curso de *Introducción a Señal
 ## Integrantes:
 ---
 - (Colaborador) -
-- Mauricio Ramos Gallegos (Colaborador) - mauricio.ramos@upch.pe 
+- Mauricio Ramos Gallegos (Colaborador) - mauricio.ramos@upch.pe\
     Soy Mauricio Ramos, estudiante de 7mo ciclo de ingeniería biomédica. Tengo intereses en el Procesamiento de Señales Biomédicas, la bioinformática :man_technologist: y la biomecánica :mechanical_arm:. 
 ![Mauricio Ramos](Imagenes/Fotos_Integrantes/MauricioRamos.jpg) 
 - (Colaborador) -
