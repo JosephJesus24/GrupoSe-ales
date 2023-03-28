@@ -6,7 +6,7 @@ Bienvenidos al repositorio del Grupo 13 para el curso de *Introducción a Señal
 ## Tabla de Contenidos:
 * [¿Qué es una señal?](#¿qué-es-una-señal)
 * [Materiales](#materiales)
-- Temática del proyecto
+- Temática del proyecto(#Tematica-del-proyecto)
 - Contenido del curso
 * [Intregrantes](#integrantes)
 
@@ -21,6 +21,7 @@ Bienvenidos al repositorio del Grupo 13 para el curso de *Introducción a Señal
 |**Arduino Tiny Machine Learning Kit**| es un paquete de hardware y software que permite a los usuarios implementar aprendizaje automático en dispositivos pequeños y de bajo consumo de energía, utilizando la plataforma Arduino y Edge Impulse|![ArduinoTiny](Imagenes/Arduino%20Tiny%20Machine.jpg)|
 ||||
 
+## Temática del proyecto
 
 
 ## Integrantes:
