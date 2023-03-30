@@ -28,13 +28,13 @@ Son de muy baja potencial eléctrico (en el orden de los mV) y están siempre so
 
 ## Integrantes:
 ---
-- (Colaborador) -
-- Mauricio Ramos Gallegos (Colaborador) - mauricio.ramos@upch.pe\
+- Narvaez Montalvo, Gabriel Adolfo (Colaborador) -
+- Ramos Gallegos, Mauricio Leonardo (Colaborador) - mauricio.ramos@upch.pe\
     Soy Mauricio Ramos, estudiante de 7mo ciclo de ingeniería biomédica. Tengo intereses en el Procesamiento de Señales Biomédicas, la bioinformática :man_technologist: y la biomecánica :mechanical_arm:. 
 ![Mauricio Ramos](Imagenes/Fotos_Integrantes/MauricioRamos.jpg) 
-- (Colaborador) -
-- (Colaborador) -
-- (Colaborador) -
+- Celis Matias, Diego Alejandro (Colaborador) -
+- Melgarejo Castillo, Joseph Jesus (Colaborador) -
+- Muñoz Quiroz, Ricardo Alonso (Colaborador) -
 
 ### Presentación del grupo :grin:
 ![FotoGrupo](Imagenes/Foto_Grupal.jpg)
