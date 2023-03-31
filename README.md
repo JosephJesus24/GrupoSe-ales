@@ -40,7 +40,8 @@ Son de muy baja potencial eléctrico (en el orden de los mV) y están siempre so
     Soy Ricardo Muñoz, estudiante de 8vo ciclo de Ingeniería Biomédica. Tengo intereces tanto en la metrología como en la Biomecánica y Rehabilitación. Experiencia en Python, Matlab y Visual Basic Application.
 ![Ricardo Muñoz](Imagenes/Fotos_Integrantes/rmq.jpg) 
 
-![Joseph Jesus Melgarejo Castillo][]
+![Joseph Jesus Melgarejo Castillo]
+- Hola mundo
 
 
 ### Presentación del grupo :grin:
