@@ -28,7 +28,8 @@ Son de muy baja potencial eléctrico (en el orden de los mV) y están siempre so
 
 ## Integrantes:
 ---
-- Narvaez Montalvo, Gabriel Adolfo (Colaborador) -
+- Narvaez Montalvo, Gabriel Adolfo (Colaborador) - gabriel.narvaez@upch.pe\
+    Soy Gabriel Narvaez, estudiante de 8vo ciclo de Ingeniería Biomédica. Tengo interes y pasión por la Ingeniería Clínica y Biomécanica enfocada en la rehabilitación
 - Ramos Gallegos, Mauricio Leonardo (Colaborador) - mauricio.ramos@upch.pe\
     Soy Mauricio Ramos, estudiante de 7mo ciclo de ingeniería biomédica. Tengo intereses en el Procesamiento de Señales Biomédicas, la bioinformática :man_technologist: y la biomecánica :mechanical_arm:. 
 ![Mauricio Ramos](Imagenes/Fotos_Integrantes/MauricioRamos.jpg) 
