@@ -1,6 +1,6 @@
 # Introducción a Señales Biomédicas Grupo 13
 
-Bienvenidos al repositorio del Grupo 13 para el curso de *Introducción a Señales Biomédicas*. Somos el **Grupo 13** :smile:, estudiantes de la carrera de ingeniería biomédica :dna: :microscope:, del 7mo ciclo. 
+Bienvenidos al repositorio del Grupo 13 para el curso de *Introducción a Señales Biomédicas*. Somos el **Grupo 13** :smile:, estudiantes de la carrera de ingeniería biomédica :dna: :microscope:, del 7mo y 8vo ciclo. 
 
 
 ## Tabla de Contenidos:
@@ -13,9 +13,9 @@ Bienvenidos al repositorio del Grupo 13 para el curso de *Introducción a Señal
 ---
 Se conoce como una señal a una representación en función del tiempo de un fenómeno físico que permite obtener una información sobre la fuente que la generó[1].\
 ![Señal_Biomedica](Imagenes/Senales-Biomedicas.webp)
-¿Una Señal Biomédica son señales generadas por diferentes sistemas fisiológicos del cuerpo humano. Su captación permite extraer el funcionamiento de los órganos y con ellos se podrán emitir algún diagnóstico[1].\
+Una Señal Biomédica son señales generadas por diferentes sistemas fisiológicos del cuerpo humano. Su captación permite extraer el funcionamiento de los órganos y con ellos se podrán emitir algún diagnóstico[1].\
 ![Señal_Biomedica_2](Imagenes/Tipos%2Bde%2BSe%C3%B1ales%2BBiom%C3%A9dicas.jpg)
-Son de muy baja potencial eléctrico (en el orden de los mV) y están siempre sometidas a ruidos, esto perjudica su análisis y observación por parte del personal médico, por lo que para ello es necesario el uso de técnicas de Procesamiento de señales y la aplicación de filtros digitales para su diagnóstico[2].
+Son de muy bajo potencial eléctrico (en el orden de los mV) y están siempre sometidas a ruidos, esto perjudica su análisis y observación por parte del personal médico, por lo que para ello es necesario el uso de técnicas de Procesamiento de señales y la aplicación de filtros digitales para su diagnóstico[2].
 
 
 ## Materiales:
