@@ -38,7 +38,7 @@ Son de muy baja potencial eléctrico (en el orden de los mV) y están siempre so
 - Melgarejo Castillo, Joseph Jesus (Colaborador) -
 - Muñoz Quiroz, Ricardo Alonso (Colaborador) - ricardo.munoz@upch.pe\
     Soy Ricardo Muñoz, estudiante de 8vo ciclo de Ingeniería Biomédica. Tengo intereces tanto en la metrología como en la Biomecánica y Rehabilitación. Experiencia en Python, Matlab y Visual Basic Application.
-![Ricardo Muñoz](Imagenes/Fotos_Integrantes/MauricioRamos.jpg) 
+![Ricardo Muñoz](Imagenes/Fotos_Integrantes/rmq.jpg) 
 
 ### Presentación del grupo :grin:
 ![FotoGrupo](Imagenes/Foto_Grupal.jpg)
