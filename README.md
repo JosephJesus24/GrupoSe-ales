@@ -23,7 +23,9 @@ Son de muy bajo potencial eléctrico (en el orden de los mV) y están siempre so
 | ---------- |:------------:|-------:|
 |**Arduino Nano 33 IoT**| Es una placa de desarrollo que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñanada para proyectos de Internet de las cosas (IoT) que requieren baja potencia y alta eficiencia energética. Es una placa de desarrollo que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñanada para proyectos de Internet de las cosas (IoT) que requieren baja potencia y alta eficiencia energética.| ![ArduinoNano](Imagenes/Arduino%20Nano%20IoT.jpg)
 |**Arduino Tiny Machine Learning Kit**| es un paquete de hardware y software que permite a los usuarios implementar aprendizaje automático en dispositivos pequeños y de bajo consumo de energía, utilizando la plataforma Arduino y Edge Impulse|![ArduinoTiny](Imagenes/Arduino%20Tiny%20Machine.jpg)|
-||||
+|**ULTRACORTEX "MARK IV" EEG HEADSET**||![Ultracortex](Imagenes/Ultracortex)|
+|**ProSim 4 Vital Signs Patient Simulator**||![Prosim](Imagenes/prosim4front_0.png)|
+|**BITalino (r)evolution Board Kit BLE/BT**||![Bitalino](Imagenes/BITalino-Board.1_720x.webp)|
 
 ## Integrantes:
 ---
@@ -39,8 +41,6 @@ Son de muy bajo potencial eléctrico (en el orden de los mV) y están siempre so
     Soy Ricardo Muñoz, estudiante de 8vo ciclo de Ingeniería Biomédica. Tengo intereces tanto en la metrología como en la Biomecánica y Rehabilitación. Experiencia en Python, Matlab y Visual Basic Application.
 ![Ricardo Muñoz](Imagenes/Fotos_Integrantes/rmq.jpg) 
 
-![Joseph Jesus Melgarejo Castillo]
-- Hola mundo
 
 
 ### Presentación del grupo :grin:
