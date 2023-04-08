@@ -9,6 +9,6 @@ Los objetivos de este laboratorio fueron:
 ### Señal Ploteada
 ### Fotos de conexión
 
-![foto_conexion](Imagenes/Conexion.jpg)
+[![Imagen-de-Whats-App-2023-04-08-a-las-15-54-19.jpg](https://i.postimg.cc/NM5D3mZM/Imagen-de-Whats-App-2023-04-08-a-las-15-54-19.jpg)](https://postimg.cc/5YW8vY4d)
 
 ### Video de señal en silencio eléctrico
