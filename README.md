@@ -36,7 +36,8 @@ Son de muy bajo potencial eléctrico (en el orden de los mV) y están siempre so
     Soy Mauricio Ramos, estudiante de 7mo ciclo de ingeniería biomédica. Tengo intereses en el Procesamiento de Señales Biomédicas, la bioinformática :man_technologist: y la biomecánica :mechanical_arm:. 
 ![Mauricio Ramos](Imagenes/Fotos_Integrantes/MauricioRamos.jpg) 
 - Celis Matias, Diego Alejandro (Colaborador) -
-- Melgarejo Castillo, Joseph Jesus (Colaborador) - joseph.melgarejo@upch.pe\
+- Melgarejo Castillo, Joseph Jesus (Colaborador) - 
+joseph.melgarejo@upch.pe\
     Soy Joseph Melgarejo, estudiante del septimo ciclo de ingeneria Biomedica. Tengo interes en business in health y en health technology.
 ![Melgarejo Castillo](Imagenes/Fotos_Integrantes/Joseph.png) 
 - Muñoz Quiroz, Ricardo Alonso (Colaborador) - ricardo.munoz@upch.pe\

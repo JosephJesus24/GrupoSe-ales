@@ -8,4 +8,7 @@ Los objetivos de este laboratorio fueron:
 
 ### Señal Ploteada
 ### Fotos de conexión
+
+![foto_conexion](Imagenes/Conexion.jpg)
+
 ### Video de señal en silencio eléctrico
