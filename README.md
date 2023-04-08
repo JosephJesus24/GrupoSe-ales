@@ -38,7 +38,7 @@ Son de muy bajo potencial eléctrico (en el orden de los mV) y están siempre so
 - Celis Matias, Diego Alejandro (Colaborador) -
 - Melgarejo Castillo, Joseph Jesus (Colaborador) -joseph.melgarejo@upch.pe\
     Soy Joseph Melgarejo, estudiante del septimo ciclo de ingeneria Biomedica. Tengo interes en business in health y en health technology.
-![Melgarejo Castillo](Imagenes\Fotos_Integrantes\Joseph.png) 
+![Melgarejo Castillo](C:\Users\Joseph\OneDrive\Escritorio\Señales\Imagenes\Fotos_Integrantes\Joseph.png) 
 - Muñoz Quiroz, Ricardo Alonso (Colaborador) - ricardo.munoz@upch.pe\
     Soy Ricardo Muñoz, estudiante de 8vo ciclo de Ingeniería Biomédica. Tengo intereces tanto en la metrología como en la Biomecánica y Rehabilitación. Experiencia en Python, Matlab y Visual Basic Application.
 ![Ricardo Muñoz](Imagenes/Fotos_Integrantes/rmq.jpg) 
