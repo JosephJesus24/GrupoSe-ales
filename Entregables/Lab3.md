@@ -24,6 +24,10 @@ Los objetivos de este laboratorio fueron:
     En una señal EMG, la actividad eléctrica muscular se mide en microvoltios (µV) y se plotea en un gráfico en función del tiempo en milisegundos (ms).\
     La señal EMG del bíceps nos muestra un patrón de actividad muscular que nos da a entender la contracción y relajación del músculo durante el período de tiempo en que se grabó. También puede haber variaciones en la amplitud y frecuencia de la señal EMG que reflejen la intensidad y duración de la contracción muscular.
 
+    Se adjunta los archivos de las señales ploteasa:\
+    [Señal_EMG.txt](Documentación/Señal_EMG.txt)  
+    [Señal_EMG.h5](Documentación/Señal_EMG.h5)
+
 ### Video de señal en silencio eléctrico
 ---
 
