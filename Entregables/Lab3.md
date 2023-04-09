@@ -31,4 +31,4 @@ Los objetivos de este laboratorio fueron:
 ### Video de señal en silencio eléctrico
 ---
 Señal EMG del compañero Gabo
-[![08.04.2023_Trim.mp4](Imagenes/Entregable-lab3/08.04.2023_Trim.mp4
+[![Alt text](https://img.youtube.com/vi/cU039oLCqsj0/0.jpg)](https://www.youtube.com/watch?v=U039oLCqsj0)
