@@ -22,10 +22,10 @@ Son de muy bajo potencial eléctrico (en el orden de los mV) y están siempre so
 |Material    | Descripción  | Imagen |
 | ---------- |:------------:|-------:|
 |**Arduino Nano 33 IoT**| Es una placa de desarrollo que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñanada para proyectos de Internet de las cosas (IoT) que requieren baja potencia y alta eficiencia energética. Es una placa de desarrollo que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñanada para proyectos de Internet de las cosas (IoT) que requieren baja potencia y alta eficiencia energética.| ![ArduinoNano](Imagenes/Arduino%20Nano%20IoT.jpg)
-|**Arduino Tiny Machine Learning Kit**| es un paquete de hardware y software que permite a los usuarios implementar aprendizaje automático en dispositivos pequeños y de bajo consumo de energía, utilizando la plataforma Arduino y Edge Impulse|![ArduinoTiny](Imagenes/Arduino%20Tiny%20Machine.jpg)|
-|**ULTRACORTEX "MARK IV" EEG HEADSET**||![Ultracortex](Imagenes/Ultracortex)|
-|**ProSim 4 Vital Signs Patient Simulator**||![Prosim](Imagenes/prosim4front_0.png)|
-|**BITalino (r)evolution Board Kit BLE/BT**||![Bitalino](Imagenes/BITalino-Board.1_720x.webp)|
+|**Arduino Tiny Machine Learning Kit**| es un paquete de hardware y software que permite a los usuarios implementar aprendizaje automático en dispositivos pequeños y de bajo consumo de energía, utilizando la plataforma Arduino y Edge Impulse.|![ArduinoTiny](Imagenes/Arduino%20Tiny%20Machine.jpg)|
+|**ULTRACORTEX "MARK IV" EEG HEADSET**|El Ultracortex "Mark IV" EEG Headset es un dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.|![Ultracortex](Imagenes/Ultracortex)|
+|**ProSim 4 Vital Signs Patient Simulator**|Fluke ProSim 4 Vital Signs Patient Simulator es un simulador de paciente que imita los signos vitales del paciente, como la presión arterial, la frecuencia cardíaca y la respiración, para ayudar en el entrenamiento y prueba de equipos médicos.|![Prosim](Imagenes/prosim4front_0.png)|
+|**BITalino (r)evolution Board Kit BLE/BT**|BITalino es un kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal. Incluye sensores inalámbricos y una plataforma de software para adquirir, procesar y visualizar datos biomédicos.|![Bitalino](Imagenes/BITalino-Board.1_720x.webp)|
 
 ## Integrantes:
 ---
