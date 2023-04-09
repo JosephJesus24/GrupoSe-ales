@@ -31,4 +31,4 @@ Los objetivos de este laboratorio fueron:
 ### Video de señal en silencio eléctrico
 ---
 Señal EMG del compañero Gabriel Narvaez
-[![Video](Imagenes/Entregable-lab3/hqdefault.jpg)](https://www.youtube.com/watch?v=U039oLCqsj0)
+[![video](https://img.youtube.com/vi/U039oLCqsj0/0.jpg)](https://www.youtube.com/watch?v=U039oLCqsj0)
