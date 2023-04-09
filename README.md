@@ -37,6 +37,7 @@ Son de muy bajo potencial eléctrico (en el orden de los mV) y están siempre so
 ![Mauricio Ramos](Imagenes/Fotos_Integrantes/MauricioRamos.jpg) 
 - Celis Matias, Diego Alejandro (Colaborador) - diego.celis@upch.pe
     Soy Diego Celis, estudiante de noveno ciclo PUCP y UPCH, me considero una persona observadora, calculadora, enfocado en la innovación y la mejora continua con el fin de alcanzar metas; presento un gran sentido de solidaridad por los demás y compartir mis conocimientos con ellos sin obtener nada a cambio. Por esta razón, estoy interesado en el desarrollo de tecnologías para la salud y mejora de la calidad de vida de la persona con énfasis en Ingeniería clínica; y Biomecánica y rehabilitación. Mi propósito es contribuir con el desarrollo de salud pública nacional y mejorar la calidad de vida del país y/o del paciente sin perder el generalismo.
+![Diego Celis](Imagenes/Fotos_Integrantes/Foto.png)
 - Melgarejo Castillo, Joseph Jesus (Colaborador) - 
 joseph.melgarejo@upch.pe\
     Soy Joseph Melgarejo, estudiante del septimo ciclo de ingeneria Biomedica. Tengo interes en business in health y en health technology.
