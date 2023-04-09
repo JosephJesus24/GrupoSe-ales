@@ -30,5 +30,5 @@ Los objetivos de este laboratorio fueron:
 
 ### Video de señal en silencio eléctrico
 ---
-Señal EMG del compañero Gabo
+Señal EMG del compañero Gabriel Narvaez
 [![Alt text](https://img.youtube.com/vi/cU039oLCqsj0/0.jpg)](https://www.youtube.com/watch?v=U039oLCqsj0)
