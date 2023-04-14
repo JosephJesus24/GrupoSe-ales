@@ -1,59 +1,51 @@
-# Uso de BiTalino para ECG
+# Entregable de laboratorio 4
+#### Laboratorio 4 (14/04/23) - Uso de Bitalino para  ECG
 
-### Laboratorio 4
+## Tabla de contenidos
+---
+* [Intregantes](#integrantes)
+* [Objetivos](#objetivos)
+* [Materiales y Equipos](#materiales-y-equipos)
+* [Procedimiento](#procedimiento)
+* [Conexiones Usadas](#conexiones-usadas)
+* [Señales medidas](#señales-medidas)
+* [Ploteos en OpenSignals](#ploteo-de-la-señal-en-opensignals)
+    * [Archivos](#archivos)
+* [Resumen y explicación de la señal ploteada](#resumen-y-explicación-de-la-señal-ploteada)
+* [Ploteos en Python](#ploteo-en-python)
+    * [Archivos]()
+* [Bibliografía](#bibliografia)
 
-### Fecha: 14 Abril 2023
-
-### Integrantes
+## Integrantes
+---
 * Joseph Jesus Melgarejo Castillo -joseph.melgarejo@upch.pe
 * Gabriel Adolfo Narvaez Montalvo- gabriel.narvaez@upch.pe
 * Mauricio Leonardo Ramos Gallegos -  mauricio.ramos@upch.pe
 * Diego Alejandro Celis Matias - diego.celis@upch.pe 
 * Ricardo Alonso Muñoz Quiroz- ricardo.munoz@upch.pe
- 
-#
+
 ## Objetivos
+---
 * El objetivo de adquirir señales biomédicas de ECG es obtener mediciones precisas de las señales eléctricas del corazón para evaluar su función y detectar posibles anomalías
 * El objetivo de configurar correctamente el dispositivo BiTalino es garantizar que las señales ECG se adquieran de manera óptima, con parámetros adecuados y sin interferencias externas que puedan afectar la precisión de las mediciones.
 * El objetivo de extraer información de las señales ECG con el software OpenSignals (r)evolution es procesar y analizar los datos obtenidos de manera eficiente, aplicando herramientas y técnicas adecuadas para visualizar y obtener información relevante de las señales ECG. Esto permite obtener una comprensión más profunda de la función cardíaca y detectar posibles patologías.
-#
 
-## Tabla de contenidos
-
-1. [MATERIALES Y EQUIPOS](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#materiales-y-equipos)
-
-2. [ENTREGABLES](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#entregables)
-
-    * [Fotos de conexión usada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#fotos-de-conexi%C3%B3n-usada)
-    * [Video de señal después de actividad física](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#video-de-se%C3%B1al-despu%C3%A9s-de-actividad-f%C3%ADsica)
-    * [Ploteo de la señal en OpenSignals](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#ploteo-de-la-se%C3%B1al-en-opensignals)
-    * [Resumen y explicación de la señal ploteada](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#resumen-y-explicaci%C3%B3n-de-la-se%C3%B1al-ploteada)
-    * [Archivos](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#archivos)
-    * [Ploteo en Python](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#ploteo-en-python)
-
-3. [REFERENCIAS BIBLIOGRÁFICAS](https://github.com/EduMV/ISB-G3/blob/main/Documentaci%C3%B3n/L4%20BiTalino%20ECG/L4_ECG.md#referencias-biblogr%C3%A1ficas)
-
-#
 ## Materiales y equipos
-
-| Modelo | Descripción | Cantidad |
-| :---         |     :---:      |          ---: |
-| (R)EVOLUTION   | Kit BiTalino     | 1    |
-| -     | Laptop o PC       | 1      |
-
-#
-## Entregables
+---
+| Modelo | Descripción | Cantidad | Referencias |
+| :---         |     :---:      |     :---: | ---:|
+| (R)EVOLUTION   | Kit BiTalino     | 1    |![Bitalino](/Entregables/Laboratorio4/Repositorio/Bitalino.jpg)|
+| -     | Laptop o PC       | 1      ||
 
 
-### Fotos de conexión usada
-
+## Procedimiento
+---
+### **Conexiones Usadas**
 #### BiTalino - Cables
 <p align="justify">Para esta conexion nos guiamos de la guia de usuario de BiTalino [1] y usamos el cable de hilos para la señal ECG.[2]
 Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afectar la lectura de la señal. </p>
 
 ![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/231526748-466001e1-cd68-4bbe-9241-2360801a1a27.jpg)
-
-
 
 #
 #### Electrodos - Cuerpo
@@ -76,7 +68,7 @@ Cabe resaltar que para esta práctica de laboratorio realizamos la prueba en 2 a
 |   ![BiTalino_guia_conexion2of](https://user-images.githubusercontent.com/101833633/231614819-e85cac50-2ecf-4bbe-bde6-d4ec18c68100.png) |   ![E2](https://user-images.githubusercontent.com/101833633/231614564-a13d49b0-f58b-4447-90a6-5bb589fcba12.jpg)  |
 
 #
-### Video de señal después de actividad física
+### Señales Medidas
 
 Antes de realizar la actividad física, capturamos la señal en reposo
 ![Señal_ECG_R](https://user-images.githubusercontent.com/101833633/231530311-87a5de4a-0d3a-488f-9e4f-16aca5d80480.jpg)
@@ -225,7 +217,7 @@ Se realizó el cálculo y se comprueba que, como fue configurado, se trata de un
 ![fft](https://user-images.githubusercontent.com/86316349/231650361-aa453b7c-0e8d-4dac-8f7e-450ccce092d0.png)
 
 #
-### Referencias biblográficas
+### Bibliografia
 [1] PLUX Wireless Biosignals, “BITalino (r)evolution User Manual,” 2020, [Online]. Available: http://bitalino.com/.
 
 [2] “PhysioNet: The Research Resource for Complex Physiologic Signals.” [Online]. Available: https://physionet.org/.
