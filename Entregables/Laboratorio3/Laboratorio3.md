@@ -10,10 +10,10 @@ Los objetivos de este laboratorio fueron:
 ### **Fotos de conexión**
 ---
 * Conexión Bitalino-Cables
-![Bitalino](/Imagenes/Entregable-lab3/Bitalino_conexion.jpg)
+![Bitalino](/Entregables/Laboratorio3/Repositorio/Bitalino_conexion.jpg)
 
 * Conexión Electrodo-Cuerpos
-![Conexion_cuerpo](/Imagenes/Entregable-lab3/Conexi%C3%B3n_cuerpo.jpg)
+![Conexion_cuerpo](/Entregables/Laboratorio3/Repositorio/Conexi%C3%B3n_cuerpo.jpg)
 
 ### **Video de señal en silencio eléctrico**
 ---
@@ -23,7 +23,7 @@ Señal EMG del compañero Gabriel Narvaez\
 ### **Señal Ploteada**
 ---
 * Señal grabada en Open Signals:
-![SS-Open-Signals.png](/Imagenes/Entregable-lab3/SS_OpenSignals.png)\
+![SS-Open-Signals.png](/Entregables/Laboratorio3/Repositorio/SS_OpenSignals.png)\
 
     -La señal que logramos conseguir con el dispositivo Bitalino, fue la presentada en la imagen anterior.
     En una señal EMG, la actividad eléctrica muscular se mide en microvoltios (µV) y se plotea en un gráfico en función del tiempo en milisegundos (ms).\
@@ -36,6 +36,6 @@ Señal EMG del compañero Gabriel Narvaez\
     ### Señal ploteada en python (Subido en la carpeta Python)
     [Señal_EMG.ipynb](/Python/EMGSE%C3%91AL.ipynb)
 
-    ![Ploteo-Python.png](/Imagenes/Entregable-lab3/Ploteo_Python.png)
+    ![Ploteo-Python.png](/Entregables/Laboratorio3/Repositorio/Ploteo_Python.png)
 
 **Todos los archivos adjuntados están en sus respectivos archivos del repositorio**
