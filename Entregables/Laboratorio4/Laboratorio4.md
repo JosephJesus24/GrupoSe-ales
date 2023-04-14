@@ -2,10 +2,10 @@
 
 ### Laboratorio 4
 
-### Fecha: 12 Abril 2023
+### Fecha: 14 Abril 2023
 
 ### Integrantes
-* Gonzalo Povea - gonzalo.povea@upch.pe
+* Joseph Jesus Melgarejo Castillo -joseph.melgarejo@upch.pe
 * Edu Marin - roberto.marin@upch.pe
 * Maria Miranda - maria.miranda.s@upch.pe
 * Fernando Panduro - luis.panduro@upch.pe 
@@ -14,10 +14,9 @@
  
 #
 ## Objetivos
-* Adquirir señales biomédicas de ECG.
-* Hacer una correcta configuración de BiTalino.
-* Extraer la información de las señales ECG del software OpenSignals (r)evolution
-
+* El objetivo de adquirir señales biomédicas de ECG es obtener mediciones precisas de las señales eléctricas del corazón para evaluar su función y detectar posibles anomalías
+* El objetivo de configurar correctamente el dispositivo BiTalino es garantizar que las señales ECG se adquieran de manera óptima, con parámetros adecuados y sin interferencias externas que puedan afectar la precisión de las mediciones.
+* El objetivo de extraer información de las señales ECG con el software OpenSignals (r)evolution es procesar y analizar los datos obtenidos de manera eficiente, aplicando herramientas y técnicas adecuadas para visualizar y obtener información relevante de las señales ECG. Esto permite obtener una comprensión más profunda de la función cardíaca y detectar posibles patologías.
 #
 
 ## Tabla de contenidos
