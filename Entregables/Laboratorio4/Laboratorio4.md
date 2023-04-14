@@ -6,11 +6,10 @@
 
 ### Integrantes
 * Joseph Jesus Melgarejo Castillo -joseph.melgarejo@upch.pe
-* Edu Marin - roberto.marin@upch.pe
-* Maria Miranda - maria.miranda.s@upch.pe
-* Fernando Panduro - luis.panduro@upch.pe 
-* Fernanda Ramirez: - fernanda.ramirez@upch.pe
-* Ximena Roldán - ximena.roldan@upch.pe
+* Gabriel Adolfo Narvaez Montalvo- gabriel.narvaez@upch.pe
+* Mauricio Leonardo Ramos Gallegos -  mauricio.ramos@upch.pe
+* Diego Alejandro Celis Matias - diego.celis@upch.pe 
+* Ricardo Alonso Muñoz Quiroz- ricardo.munoz@upch.pe
  
 #
 ## Objetivos
@@ -229,11 +228,11 @@ Se realizó el cálculo y se comprueba que, como fue configurado, se trata de un
 ### Referencias biblográficas
 [1] PLUX Wireless Biosignals, “BITalino (r)evolution User Manual,” 2020, [Online]. Available: http://bitalino.com/.
 
-[2] “Using BITalino Mini with Electrocardiography (ECG) Sensor Application Notes,” pp. 1–23, 2020.
+[2] “PhysioNet: The Research Resource for Complex Physiologic Signals.” [Online]. Available: https://physionet.org/.
 
 [3] M. Proença and K. Mrotzek, “BITalino (r)evolution Home Guide,” 2020.
 
-[4] L. Azcona, “Estructura del corazón Capítulo 4 El electrocardiograma.” Accessed: Apr. 11, 2023. [Online]. Available: [https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf#:~:text=La actividad eléctrica del corazón recogida en el](https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf#:~:text=La%20actividad%20el%C3%A9ctrica%20del%20coraz%C3%B3n%20recogida%20en%20el)
+[4] “ECG Interpretation: How to Read an ECG.” Geeky Medics, 2022. [Online]. Available: https://geekymedics.com/ecg-interpretation/
 
 ‌[5] “BITalino (r)evolution Lab Guide.” Available: [https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf](https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf)
 
