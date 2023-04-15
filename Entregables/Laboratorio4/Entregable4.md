@@ -90,6 +90,7 @@ Como es sabido, para llevar a cabo un ECG . se colocan los electrodos respectivo
 ## Señales medidas
 ---
 ### **Paciente 1**
+
  <p align="justify">Electrodos colocados en el paciente 1 </p>
 <img src="Repositorio/vfrontal.jpg" alt="Conexion Superior" width="300">
  <p align="justify">Toma de muestra en reposo </p>
@@ -98,6 +99,7 @@ Como es sabido, para llevar a cabo un ECG . se colocan los electrodos respectivo
 
 
 ### **Paciente 2**
+
 <img src="Repositorio/Paciente 2.jpg" alt="Paciente 2" width="300">
 
 ## Ploteos en OpenSignals
@@ -112,6 +114,7 @@ Como es sabido, para llevar a cabo un ECG . se colocan los electrodos respectivo
 <em><p align="center">Señal del Paciente 1: Después de Ejercicio físico </p></em>
 
 **Paciente2**
+
 <img src="Repositorio/SeñalesOpenSignasl/Senal1.png" alt="Paciente2Señal1" width="500">
 <em><p align="center">Señal del Paciente 2: Estado Basal </p></em>
 <img src="Repositorio/SeñalesOpenSignasl/Senal2.png" alt="Paciente2Señal2" width="500">
