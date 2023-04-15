@@ -146,6 +146,14 @@ Debemos tomar en cuenta que el estudio se realizo con un sistema bipolar de deri
 
 [Señal_Paciente2_Ejercicio.txt](/Documentaci%C3%B3n/Entregable4/Senal3.txt) 
 
+[Señal_60.txt](/Documentaci%C3%B3n/Entregable4/Senal7.txt)
+
+[Señal_120.txt](/Documentaci%C3%B3n/Entregable4/Senal8.txt)
+
+[Señal_240.txt](/Documentaci%C3%B3n/Entregable4/Senal9.txt)
+
+[Señal_Enfermedad Auricular.txt](/Documentaci%C3%B3n/Entregable4/Senal10.txt)
+
 
 ## Explicación de la señal ploteada
 ---
