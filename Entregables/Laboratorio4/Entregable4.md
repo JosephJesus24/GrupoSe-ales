@@ -82,12 +82,6 @@ Como es sabido, para llevar a cabo un ECG . se colocan los electrodos respectivo
 | :---         |     :---:      |
 |   <img src="Repositorio/vsuperior.jpg" alt="Conexion Frontal" width="300">|  <img src="Repositorio/vfrontal.jpg" alt="Conexion Superior" width="300">|
 
----Explicar sobre el siguiente paciente ---
-
-|   Referencia | Posicionamiento | 
-| :---         |     :---:      |
-|   ![BiTalino_guia_conexion2of](https://user-images.githubusercontent.com/101833633/231614819-e85cac50-2ecf-4bbe-bde6-d4ec18c68100.png) |   |
-|   !Urgencias y Emergen. Las derivaciones del electrocardiograma [Internet]. 2019 [citado el 14 de abril de 2023]. Disponible en: https://www.urgenciasyemergen.com/las-derivaciones-del-electrocardiograma/) |   |
 
 ## Señales medidas
 
