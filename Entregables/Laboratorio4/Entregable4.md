@@ -170,6 +170,6 @@ En las figuras del ECG Basal del participante 1 y 2 se observa que las frecuenci
 ![Plot_paciente 2](/Entregables/Laboratorio4/Repositorio/PlotCelis.png) 
 
 ### Archivos - Python
- [Ploteos en código Python](/Python/TrabajoLaboratorio4.ipynb)
+ [Ploteos en código Python](Entregables/Laboratorio4/Repositorio/TrabajoLaboratorio4 (3).ipynb)
 
 ---
