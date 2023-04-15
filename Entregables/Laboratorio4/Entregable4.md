@@ -40,6 +40,19 @@
 
 ## Procedimiento
 ---
+
+## Conceptos utilizados
+Como es sabido, para llevar a cabo un ECG . se colocan los electrodos respectivos en distintas puntos estrategicos del cuerpo , como , pecho brazos y piernas. A estos puntos estratégicos se les llamas derivaciones , puntos de registros del corazón que recopilan información de la actividad eléctrica  del corazón desde diferentes ángulos. Dentro de este Laboratorio pudimos comprender en mayor las derivaciones BIPOLARES [2]. Las cuales son:
+* La derivación I se coloca en el brazo derecho y en el brazo izquierdo. Esta mide la actividad eléctrica del corazón desde la parte superior izquierda del corazón hacia la parte inferior derecha.
+
+* La derivación II se coloca en el brazo derecho y en la pierna izquierda. Esta mide la actividad eléctrica del corazón desde la parte superior derecha del corazón hacia la parte inferior izquierda.
+
+* La derivación III se coloca en el brazo izquierdo y en la pierna izquierda. Esta miide la actividad eléctrica del corazón desde la parte inferior izquierda del corazón hacia la parte superior derecha.
+
+    <img src="Imagen3-1.jpg" alt="Derivaciones" width="300">
+
+
+
 ### **Conexiones Usadas**
 * BiTalino - Cables
     <p align="justify">Las conexiones que se hicieron en el módulo Bitalino se hicieron en base al manual guía de como se usa bitalino. </p>
@@ -72,3 +85,4 @@
 |   Referencia | Posicionamiento | 
 | :---         |     :---:      |
 |   ![BiTalino_guia_conexion2of](https://user-images.githubusercontent.com/101833633/231614819-e85cac50-2ecf-4bbe-bde6-d4ec18c68100.png) |   |
+|   !Urgencias y Emergen. Las derivaciones del electrocardiograma [Internet]. 2019 [citado el 14 de abril de 2023]. Disponible en: https://www.urgenciasyemergen.com/las-derivaciones-del-electrocardiograma/) |   |
