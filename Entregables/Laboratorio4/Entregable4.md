@@ -157,6 +157,10 @@ Debemos tomar en cuenta que el estudio se realizo con un sistema bipolar de deri
 
 ## Explicación de la señal ploteada
 ---
+En las figuras del ECG Basal del participante 1 y 2 se observa que las frecuencias que tiene mayor predominio en la señal están en el rango de 0 a 50 Hz. Un pico inicial en 0 hz pero esto es propio del gráfico, se debe a la continuidad en el tiempo de las señales y la simetría de la gráfica de FFT. Los ruidos encontrados en las señales se pueden mostrar en distintas formas. Una de ellas es el pico en 60 HZ, la cual se debe a las conecciones eléctricas de la misma. Los ECG suelen tener filtros de 25, 50 y 250 hz los cuales evitan estas interferencias o dejan pasar la mayor cantidad de ruido de la mismas para información sobre la respiración o espasmos.
+
+[Más_Información](https://www.flukebiomedical.com/sites/default/files/resources/prosim4_gsspa0300.pdf)
+
 ## Ploteos en Python 
 ---
 **Paciente 1**
@@ -168,6 +172,4 @@ Debemos tomar en cuenta que el estudio se realizo con un sistema bipolar de deri
 ### Archivos - Python
  [Ploteos en código Python](/Python/TrabajoLaboratorio4.ipynb)
 
----
-## Bibliografía 
 ---
