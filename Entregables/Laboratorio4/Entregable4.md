@@ -121,6 +121,17 @@ Debemos tomar en cuenta que el estudio se realizo con un sistema bipolar de deri
 <img src="Repositorio/SeñalesOpenSignasl/Senal3.png" alt="Paciente2Señal3" width="500">
 <em><p align="center">Señal del Paciente 2: Después de Ejercicio físico</p></em>
 
+**Señales Simuladas**
+
+<img src="Repositorio/SeñalesOpenSignasl/60bpm.png" alt="60bpm" width="500">
+<em><p align="center">Señal 60 bpm </p></em>
+<img src="Repositorio/SeñalesOpenSignasl/120.png" alt="120bpm" width="500">
+<em><p align="center">Señal 120 bpm</p></em>
+<img src="Repositorio/SeñalesOpenSignasl/240.png" alt="240bpm" width="500">
+<em><p align="center">Señal 240 bpm</p></em>
+<img src="Repositorio/SeñalesOpenSignasl/FibrilaciónAuricular.png" alt="Fibrilación Auricular" width="500">
+<em><p align="center">Señal Enfermedad Cardiovascular : Fibrilación Auricular Severa</p></em>
+
 ### Archivos - OpenSignals
     
 [Señal_Paciente1_Reposo.txt](/Documentaci%C3%B3n/Entregable4/Senal4.txt)
