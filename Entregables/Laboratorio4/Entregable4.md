@@ -39,6 +39,8 @@
 
 
 ## Procedimiento
+
+
 ---
 
 ## Conceptos utilizados
@@ -88,6 +90,9 @@ Como es sabido, para llevar a cabo un ECG . se colocan los electrodos respectivo
 |   !Urgencias y Emergen. Las derivaciones del electrocardiograma [Internet]. 2019 [citado el 14 de abril de 2023]. Disponible en: https://www.urgenciasyemergen.com/las-derivaciones-del-electrocardiograma/) |   |
 
 ## Señales medidas
+
+Debemos tomar en cuenta que el estudio se realizo con un sistema bipolar de derivaciones de extremidades el cual se compone de 3 electrodos conectados al módulo ECG del bitalino. Existen distintas formas de conectar estos electrodos, estas son llamadas derivaciones. La derivación I representa la diferencia de potencial entre el brazo derecho y el brazo iquierdo; un impulso eléctrico que se mueve de derecha a izquierda genera una desvicacion de ECG positiva. La derivación II es la diferencia de potencial entre el brazo derecho y la pierna izquierda, se produce una desviación positiva del ECG. Por otro lado la derivación III es la diferencia de potencial entre el brazo y pierna izqueirads, de forma reiterada la dirección del impulso es positivo. La derivacion elegida fue la primera derivación, esta por la facilidad de manejo y longitud de los cables del sensor ECG del bitalino. El caso del paciente 1 se tomo de medida de referencia el tobillo. Por otro lado el paciente 2 tomó la medida de referencia el hueso ileaco de la cadera.
+  
 ---
 ### **Paciente 1**
 
