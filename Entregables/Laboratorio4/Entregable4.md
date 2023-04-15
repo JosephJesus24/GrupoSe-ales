@@ -86,3 +86,67 @@ Como es sabido, para llevar a cabo un ECG . se colocan los electrodos respectivo
 | :---         |     :---:      |
 |   ![BiTalino_guia_conexion2of](https://user-images.githubusercontent.com/101833633/231614819-e85cac50-2ecf-4bbe-bde6-d4ec18c68100.png) |   |
 |   !Urgencias y Emergen. Las derivaciones del electrocardiograma [Internet]. 2019 [citado el 14 de abril de 2023]. Disponible en: https://www.urgenciasyemergen.com/las-derivaciones-del-electrocardiograma/) |   |
+
+## Señales medidas
+---
+### **Paciente 1**
+ <p align="justify">Electrodos colocados en el paciente 1 </p>
+<img src="Repositorio/vfrontal.jpg" alt="Conexion Superior" width="300">
+ <p align="justify">Toma de muestra en reposo </p>
+
+
+
+
+### **Paciente 2**
+<img src="Repositorio/Paciente 2.jpg" alt="Paciente 2" width="300">
+
+## Ploteos en OpenSignals
+---
+**Paciente 1**
+
+<img src="Repositorio/SeñalesOpenSignasl/Senal4.png" alt="Paciente1Señal1" width="500">
+<em><p align="center">Señal del Paciente 1: Estado Basal</p></em>
+<img src="Repositorio/SeñalesOpenSignasl/Senal5.png" alt="Paciente1Señal2" width="500">
+<em><p align="center">Señal del Paciente 1: Aguantando Respiración 10 segundos </p></em>
+<img src="Repositorio/SeñalesOpenSignasl/Senal6.png" alt="Paciente1Señal3" width="500">
+<em><p align="center">Señal del Paciente 1: Después de Ejercicio físico </p></em>
+
+**Paciente2**
+<img src="Repositorio/SeñalesOpenSignasl/Senal1.png" alt="Paciente2Señal1" width="500">
+<em><p align="center">Señal del Paciente 2: Estado Basal </p></em>
+<img src="Repositorio/SeñalesOpenSignasl/Senal2.png" alt="Paciente2Señal2" width="500">
+<em><p align="center">Señal del Paciente 2: Aguantando Respiración 10 segundos </p></em>
+<img src="Repositorio/SeñalesOpenSignasl/Senal3.png" alt="Paciente2Señal3" width="500">
+<em><p align="center">Señal del Paciente 2: Después de Ejercicio físico</p></em>
+
+### Archivos - OpenSignals
+    
+[Señal_Paciente1_Reposo.txt](/Documentaci%C3%B3n/Entregable4/Senal4.txt)
+
+[Señal_Paciente1_10Seg_Respiración.txt](/Documentaci%C3%B3n/Entregable4/Senal5.txt)
+
+[Señal_Paciente1_Ejercicio.txt](/Documentaci%C3%B3n/Entregable4/Senal6.txt)
+
+[Señal_Paciente2_Reposo.txt](/Documentaci%C3%B3n/Entregable4/Senal1.txt)
+
+[Señal_Paciente2_10Seg_Respiración.txt](/Documentaci%C3%B3n/Entregable4/Senal2.txt)
+
+[Señal_Paciente2_Ejercicio.txt](/Documentaci%C3%B3n/Entregable4/Senal3.txt) 
+
+
+## Explicación de la señal ploteada
+---
+## Ploteos en Python 
+---
+**Paciente 1**
+![PLot_paciente 1](/Entregables/Laboratorio4/Repositorio/PlotMu%C3%B1oz.png) 
+
+**Paciente 2**
+![Plot_paciente 2](/Entregables/Laboratorio4/Repositorio/PlotCelis.png) 
+
+### Archivos - Python
+ [Ploteos en código Python](/Python/TrabajoLaboratorio4.ipynb)
+
+---
+## Bibliografía 
+---
