@@ -9,12 +9,12 @@
 * [Procedimiento](#procedimiento)
 * [Conexiones Usadas](#conexiones-usadas)
 * [Señales medidas](#señales-medidas)
-* [Ploteos en OpenSignals](#ploteo-de-la-señal-en-opensignals)
-    * [Archivos](#archivos)
-* [Resumen y explicación de la señal ploteada](#resumen-y-explicación-de-la-señal-ploteada)
-* [Ploteos en Python](#ploteo-en-python)
-    * [Archivos]()
-* [Bibliografía](#bibliografia)
+* [Ploteos en OpenSignals](#ploteos-en-opensignals)
+    * [Archivos](#archivos---opensignals)
+* [Resumen y explicación de la señal ploteada](#explicación-de-la-señal-ploteada)
+* [Ploteos en Python](#ploteos-en-python)
+    * [Archivos](#archivos---python)
+* [Bibliografía](#bibliografía)
 
 ## Integrantes
 ---
