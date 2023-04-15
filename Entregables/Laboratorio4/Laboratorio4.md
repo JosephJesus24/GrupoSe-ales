@@ -41,42 +41,46 @@
 ## Procedimiento
 ---
 ### **Conexiones Usadas**
-#### BiTalino - Cables
-<p align="justify">Para esta conexion nos guiamos de la guia de usuario de BiTalino [1] y usamos el cable de hilos para la señal ECG.[2]
-Cabe resaltar que los cables deben estar bien conectados, ya que eso puede afectar la lectura de la señal. </p>
+* BiTalino - Cables
+    <p align="justify">Las conexiones que se hicieron en el módulo Bitalino se hicieron en base al manual guía de como se usa bitalino. </p>
 
-![BiTalino_Cables](https://user-images.githubusercontent.com/101833633/231526748-466001e1-cd68-4bbe-9241-2360801a1a27.jpg)
+    <img src="Repositorio/Conexion_bit.jpg" alt="Biotalino Conexion" width="300">
 
-#
-#### Electrodos - Cuerpo
 
-Para el posicionamiento de los electrodos, usamos como guia el documento "BITalino (r)evolution Home Guide". [3]
+* Electrodos - Cuerpo
 
-Los electrodos se ubican en esas posiciones (cerca a huesos) para evitar captar el movimiento de los músculos.
+   
 
-![Imagen_1](https://user-images.githubusercontent.com/89672526/231577174-f517be3b-53c2-4101-880d-68be6c65eedd.png)
+    <img src="Repositorio/Conexio_cuer.jpg" alt="Cuerpo Conexion" width="300">
 
-Entonces, posicionamos los electrodos positivos y negativos en las muñecas y el de referencia en la cresta iliaca. 
+    Las conexiones que se hicieron en el primer paciente fueron:
 
-|   Vista Frontal | Vista Superior | 
+| Zona |Electrodo | Polaridad |
+| :---  | :---: | ---:|
+| En la muñeca izquierda|Rojo| Positivo|
+| En la muñeca derecha |Negro| Negativo |
+| Cresta Iliaca|Blanco| Referencia|
+
+
+
+|   Vista Superior | Vista Frontal- | 
 | :---         |     :---:      |
-|  ![FrontalECG](https://user-images.githubusercontent.com/101833633/231612994-cf0127ef-a98b-4fe8-a6b1-52b380366ad4.jpg)  |    ![Vista_Superior_ECG](https://user-images.githubusercontent.com/101833633/231528901-c54d7486-4f94-4764-a065-ddda56eddc25.jpg)  |
+|   <img src="Repositorio/vsuperior.jpg" alt="Conexion Frontal" width="300">|  <img src="Repositorio/vfrontal.jpg" alt="Conexion Superior" width="300">|
 
-Cabe resaltar que para esta práctica de laboratorio realizamos la prueba en 2 alumnos y el posicionamiento de electrodos en el segundo alumno fue el siguiente:
+---Explicar sobre el siguiente paciente ---
+
 |   Referencia | Posicionamiento | 
 | :---         |     :---:      |
-|   ![BiTalino_guia_conexion2of](https://user-images.githubusercontent.com/101833633/231614819-e85cac50-2ecf-4bbe-bde6-d4ec18c68100.png) |   ![E2](https://user-images.githubusercontent.com/101833633/231614564-a13d49b0-f58b-4447-90a6-5bb589fcba12.jpg)  |
+|   ![BiTalino_guia_conexion2of](https://user-images.githubusercontent.com/101833633/231614819-e85cac50-2ecf-4bbe-bde6-d4ec18c68100.png) |   |
 
 #
 ### Señales Medidas
 
 Antes de realizar la actividad física, capturamos la señal en reposo
-![Señal_ECG_R](https://user-images.githubusercontent.com/101833633/231530311-87a5de4a-0d3a-488f-9e4f-16aca5d80480.jpg)
+
 
 
 Para medir la señal despues de la actividad física, el paciente realizo ejercicio (burpees) durante 2 minutos, para asegurar que su ritmo cardiaco este acelerado
-
-https://user-images.githubusercontent.com/101833633/231529945-f8db88ee-2fae-48c0-aac2-90ec54d865d1.mp4
 
 
 
