@@ -49,6 +49,8 @@ Como es sabido, para llevar a cabo un ECG . se colocan los electrodos respectivo
 
 * La derivación III se coloca en el brazo izquierdo y en la pierna izquierda. Esta miide la actividad eléctrica del corazón desde la parte inferior izquierda del corazón hacia la parte superior derecha.
 
+    <img src="Repositorio/Conexion_bit.jpg" alt="Biotalino Conexion" width="300">
+
 
 
 ### **Conexiones Usadas**
