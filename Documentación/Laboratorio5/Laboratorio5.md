@@ -239,28 +239,28 @@ La señal de EEG registrada por Bitalino mostrará cambios en la actividad cereb
 3. [Registro 3 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro3_OpenBCI.txt)
 4. [Registro 4 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro4_OpenBCI.txt)
 
-## Ploteo en Python_
+## Ploteo en Python
 
 ### Registro 1:
 
 <div align="center">
 <img src="Fotos/GABO_TIEMPO.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig15. Análisis de la señal en el tiempo.</p></em>
+<em><p align="center"> Fig15. Análisis en Bitalino de la señal en el tiempo.</p></em>
 
 ### Registro 2: 
 
 <div align="center">
 <img src="Fotos/GABO_TIEMPO_30S.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig14. Análisis de la señal, reposo por 30s.</p></em>
+<em><p align="center"> Fig14. Análisis en Bitalino de la señal, reposo por 30s con .</p></em>
 
 ### Registro 3: 
 
 <div align="center">
 <img src="Fotos/GABO_FRECUENCIAS.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig16. Análisis de la señal en la frecuencia.</p></em>
+<em><p align="center"> Fig16. Análisis en Bitalino de la señal en la frecuencia.</p></em>
 
 ---
 ## Referencias Bibliográficas:
