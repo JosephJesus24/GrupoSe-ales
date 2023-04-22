@@ -62,7 +62,11 @@ Los materiales usados para el desarrollo de este laboratorio fueron 2 dispositiv
 <h1 align="center"> Desarrollo del laboratorio </h1>
 
 ## Objetivos
-    Colocar los objetivos del laboratorio
+
+* Poder adquirir y analizar señales EEG
+* Emplear el software OpenBCI y usar el dispositivo Ultracortex para la toma de señales
+* Realizar una segunda medición con el software Bitalino
+
 ## Conexiones usadas
 
 Para la toma de muestras, fueron necesario 2 pacientes de prueba para el uso de bitalino y del ultracortex.
@@ -78,8 +82,6 @@ Las conexiones que se le hicieron a cada paciente de prueba fueron las siguiente
 
 
 ## Señales Analizadas
-    Video de señal mostrando el punto 1,2 y 4 del procedimiento; que se muestre las conexiones electrodos-cuerpo/cabeza y señal ploteada.
-
     
 <h2 align="center"> Toma de regitros con Bitalino </h2>
 
