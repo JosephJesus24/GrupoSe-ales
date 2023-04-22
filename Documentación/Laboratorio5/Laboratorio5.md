@@ -215,14 +215,6 @@ La señal de EEG registrada por Bitalino mostrará cambios en la actividad cereb
 <em><p align="center"> Fig13. Registro4 en bitalino: Resolución ejercicios matemáticos.</p></em>
 
 
-
-<h2 align="center"> Toma de regitros con Open BCI </h2>
-
-### Registro 1: 
-### Registro 2:     
-### Registro 3: 
-### Registro 4: 
-
 ## Archivos de  EEG en Open BCI
 
 <h3 align="center"> Archivos de Bitalino </h3>
@@ -240,6 +232,7 @@ La señal de EEG registrada por Bitalino mostrará cambios en la actividad cereb
 4. [Registro 4 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro4_OpenBCI.txt)
 
 ## Ploteo en Python
+<h2 align="center"> Toma de regitros con Bitalino </h2>
 
 ### Registro 1:
 
@@ -261,6 +254,17 @@ La señal de EEG registrada por Bitalino mostrará cambios en la actividad cereb
 <img src="Fotos/GABO_FRECUENCIAS.png" alt="Registro4_Bit" width="1200">
 </div>
 <em><p align="center"> Fig16. Análisis en Bitalino de la señal en la frecuencia.</p></em>
+
+<h2 align="center"> Toma de regitros con Open BCI </h2>
+ 
+[Notebook de señales de OpenBCI](../../Python/Registros_OpenBCI.ipynb)
+
+### Registro 1 - Estado Basal (relajación por 30 segundos): 
+
+### Registro 2 - Ojos cerrados-Ojos abiertos:     
+
+### Registro 4 - Cuestionario de problemas matemáticos: 
+
 
 ---
 ## Referencias Bibliográficas:
