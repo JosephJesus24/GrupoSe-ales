@@ -226,10 +226,10 @@ Se realizaron los mismos ejercicios de registro de señales con el uso del Ultra
 
 <h3 align="center"> Archivos de OpenBCI </h3>
 
-1. [Registro 1 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro1_OpenBCI)
-2. [Registro 2 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro2_OpenBCI)
-3. [Registro 3 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro3_OpenBCI)
-4. [Registro 4 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro4_OpenBCI)
+1. [Registro 1 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro1_OpenBCI.txt)
+2. [Registro 2 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro2_OpenBCI.txt)
+3. [Registro 3 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro3_OpenBCI.txt)
+4. [Registro 4 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro4_OpenBCI.txt)
 
 ## Ploteo en Python_
     Agregar un notebook de las señales ploteadas en python.
