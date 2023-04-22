@@ -90,7 +90,7 @@ Las conexiones que se le hicieron a cada paciente de prueba fueron las siguiente
 </div>
 <em><p align="center"> Fig7. Registros de ejercicios de Bitalino.</p></em>
 
-### Registro 1. Registro de linea basal (30 segundos)
+### 1. Registro de linea basal (30 segundos)
 Este registro consiste en la toma de muestra de señal EEG donde el usuario uno permaneció durante 30 segundos en reposo, con los ojos cerrados, sin ninguna distracción y con una respiración normal.
 
 
@@ -99,10 +99,9 @@ Este registro consiste en la toma de muestra de señal EEG donde el usuario uno 
 Este registro consiste en la toma de muestra de señal EEG donde el usuario realizó un ciclo de parpadeo 5 veces. Cada momento en el que el usuario permanece con los ojos cerrados o con los ojos abiertos durará 5 segundos.
 
 <div align="center">
-    <video src="[Documentación/Laboratorio5/Videos/Registro4_Bit.mp4](https://user-images.githubusercontent.com/43487731/233763534-fe27df17-2006-4958-ab02-ca933bbe7df9.mp4)">
+    <video src="https://user-images.githubusercontent.com/43487731/233763534-fe27df17-2006-4958-ab02-ca933bbe7df9.mp4">
 </div>
-
-Registro2_Bit.mp4
+<em><p align="center"> Video2. Ejercicio2 en Bitalino.</p></em>
     
 ### 3. Registro de fase de referencia
 Registro de reposo, similiar al primer registro, durante 30 segundos.
@@ -113,11 +112,10 @@ Registro de reposo, similiar al primer registro, durante 30 segundos.
 Esta lista de ejercicios será dictada con la ayuda de una segunda persona que los dirá en voz alta
 
 <div align="center">
-    <video src="Documentación/Laboratorio5/Videos/Registro4_Bit.mp4">
+    <video src="https://user-images.githubusercontent.com/43487731/233763662-c3e35430-3325-47bf-89e0-ea0fde7ad094.mp4">
 </div>
-    
-Registro4_Bit.mp4
-
+<em><p align="center"> Video4. Ejercicio4 en Bitalino.</p></em>
+ 
 <h2 align="center"> Toma de regitros con OpenBCI </h2>
 
 <div align="center">
@@ -127,21 +125,38 @@ Registro4_Bit.mp4
 
 <em><p align="center"> Fig8. Registros de ejercicios en OpenBCI.</p></em>
 
-### Registro 1. Registro de linea basal (30 segundos)
-Este registro consiste en la toma de muestra de señal EEG donde el usuario uno permaneció durante 30 segundos en reposo, con los ojos cerrados, sin ninguna distracción y con una respiración normal.
-
+Se realizaron los mismos ejercicios de registro de señales con el uso del UltraCortex y el software OpenBCI
+### 1. Registro de linea basal (30 segundos)
+    
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/43487731/233763713-8d193e2f-f4f3-4107-8bb1-1f2c6d079269.mp4">
+</div>
+<em><p align="center"> Video5. Ejercicio1 en OpenBCI.</p></em>
+    
 ### 2. Registro de ciclo Ojos abiertos - Ojos cerrados
-Este registro consiste en la toma de muestra de señal EEG donde el usuario realizó un ciclo de parpadeo 5 veces. Cada momento en el que el usuario permanece con los ojos cerrados o con los ojos abiertos durará 5 segundos.
 
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/43487731/233763726-240f3828-6a1c-4c83-b967-e193d5d2ba87.mp4">
+</div>
+<em><p align="center"> Video6. Ejercicio2 en OpenBCI.</p></em>
+    
 ### 3. Registro de fase de referencia
-Registro de reposo, similiar al primer registro, durante 30 segundos.
+
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/43487731/233763735-f9dc003b-4697-4509-9541-d675d6b5caeb.mp4">
+</div>
+<em><p align="center"> Video7. Ejercicio3 en OpenBCI.</p></em>
 
 ### 4. Registro cálculo de ejercicios matemáticos
-Último registro, nuestro usuario se encargará de resolver una lista de ejercicios matemáticos mentalmente, mirando hacia un solo punto fijo para evitar distracciones.
-Esta lista de ejercicios será dictada con la ayuda de una segunda persona que los dirá en voz alta.
+
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/43487731/233763746-8726fe83-8f0f-4731-b614-441f866f0424.mp4">
+</div>
+<em><p align="center"> Video8. Ejercicio4 en OpenBCI.</p></em>
+    
 ## Ploteo y Explicación de las señales
     Explicaciones de los ploteos y poner las capturas de los ploteos en Open BCI
-
+    
 <h2 align="center"> Toma de regitros con Bitalino </h2>
 
 ### Registro 1: 
