@@ -93,7 +93,10 @@ Las conexiones que se le hicieron a cada paciente de prueba fueron las siguiente
 ### 1. Registro de linea basal (30 segundos)
 Este registro consiste en la toma de muestra de señal EEG donde el usuario uno permaneció durante 30 segundos en reposo, con los ojos cerrados, sin ninguna distracción y con una respiración normal.
 
-
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/43487731/233764056-4be7901f-acf7-4714-8eb8-6fc3955dc434.mp4">
+</div>
+<em><p align="center"> Video1. Ejercicio1 en Bitalino.</p></em>
 
 ### 2. Registro de ciclo Ojos abiertos - Ojos cerrados
 Este registro consiste en la toma de muestra de señal EEG donde el usuario realizó un ciclo de parpadeo 5 veces. Cada momento en el que el usuario permanece con los ojos cerrados o con los ojos abiertos durará 5 segundos.
@@ -105,7 +108,6 @@ Este registro consiste en la toma de muestra de señal EEG donde el usuario real
     
 ### 3. Registro de fase de referencia
 Registro de reposo, similiar al primer registro, durante 30 segundos.
-
 
 ### 4. Registro cálculo de ejercicios matemáticos
 Último registro, nuestro usuario se encargará de resolver una lista de ejercicios matemáticos mentalmente, mirando hacia un solo punto fijo para evitar distracciones.
