@@ -29,14 +29,14 @@ En el presente laboratorio se realizó la adquisición, visualización y anális
 Para medir señales EEG con Bitalino, se necesitaron dos electrodos colocados en la cabeza del paciente , a la altura de la frente y uno de referencia  en la parte posterior de la oreja. 
 
 <div align="center">
-<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/conexion_bita1.jpg" alt="Conexion1_Bit" width="200"> 
+<img src="Fotos/conexion_bita1.jpg" alt="Conexion1_Bit" width="200"> 
 </div>
 <em><p align="center"> Fig1. Conexiones de Bitalino.</p></em>
 
 Y para  la correcta medición del ULTRA CORTEX se requirió de una correcta calibración de los 8 canales ubicados estratégicamente en la cabeza de nuestro compañero ,de acuerdo con el sistema de colocación de electrodos 10/20.
 
 <div align="center">
-<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/conexion_ultra3.png" alt="Conexion1_Bit" width="200"> 
+<img src="Fotos/conexion_ultra3.png" alt="Conexion1_Bit" width="200"> 
 </div>
 <em><p align="center"> Fig2. Conexiones de Ultra Cortex.</p></em>
 
@@ -54,8 +54,8 @@ Los materiales usados para el desarrollo de este laboratorio fueron 2 dispositiv
 |Materiales |   Descripción      |Referencia         |
 |:---       |    :---:           |     :---:         |
 | Laptop    | PC portatil        | Cualquier modelo  |
-| Bitalino  |Kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal, para adquirir, procesar y visualizar datos biomédicos.|<img src="Grupo_Se%C3%B1ales/Imagenes/BITalino-Board.1_720x.webp" alt="Bitalino" width="500"> <em><p align="center"> Fig3. Bitalino.</p></em>|
-|Ultracortex EEG Headset |Dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.   |<img src="Grupo_Se%C3%B1ales/Imagenes/Ultracortex" alt="Bitalino" width="500"> <em><p align="center"> Fig4. Ultracortex EEG Headset.</p></em>|
+| Bitalino  |Kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal, para adquirir, procesar y visualizar datos biomédicos.|<img src="../../Imagenes/BITalino-Board.1_720x.webp" alt="Bitalino" width="500"> <em><p align="center"> Fig3. Bitalino.</p></em>|
+|Ultracortex EEG Headset |Dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.   |<img src="../../Imagenes/Ultracortex" alt="Bitalino" width="500"> <em><p align="center"> Fig4. Ultracortex EEG Headset.</p></em>|
 
 </div>
 
@@ -73,9 +73,8 @@ Las conexiones que se le hicieron a cada paciente de prueba fueron las siguiente
 |Paciente de prueba 1| Paciente de Prueba 2|
 |:---:               |                :---:|
 |   Gabriel Narvaez  |     Diego Celis     |
-|<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/conexion_bita2.jpg" alt="Conexion1_Bit" width="300"> <em><p align="center"> Fig5. Conexiones señaladas de Bitalino.</p></em> |   <img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/conexion_ultra2.jpg" width="240"> <em><p align="center"> Fig6. Conexiones de Ultra Cortex según sistema 10/20.</p></em> |
+|<img src="Fotos/conexion_bita2.jpg" alt="Conexion1_Bit" width="300"> <em><p align="center"> Fig5. Conexiones señaladas de Bitalino.</p></em> |   <img src="Fotos/conexion_ultra2.jpg" width="240"> <em><p align="center"> Fig6. Conexiones de Ultra Cortex según sistema 10/20.</p></em> |
 </div>
-
 
 
 ## Señales Analizadas
@@ -86,7 +85,7 @@ Las conexiones que se le hicieron a cada paciente de prueba fueron las siguiente
 
 <div align="center">
 
-<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/conexion_bita2.jpg" alt="Conexion1_Bit" width="300">
+<img src="Fotos/conexion_bita2.jpg" alt="Conexion1_Bit" width="300">
 
 </div>
 <em><p align="center"> Fig2. Conexiones de Bitalino.</p></em>
@@ -111,7 +110,7 @@ Esta lista de ejercicios será dictada con la ayuda de una segunda persona que l
 
 <div align="center">
 
-<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/conexion_ultra2.jpg" alt="Conexion1_Bit" width="270">
+<img src="Fotos/conexion_ultra2.jpg" alt="Conexion2_Ultra" width="270">
 
 </div>
 
@@ -136,25 +135,25 @@ Esta lista de ejercicios será dictada con la ayuda de una segunda persona que l
 
 ### Registro 1: 
 <div align="center">
-<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/Registro1-bit.png" alt="Registro1_Bit" width="1200">
+<img src="Fotos/Registro1-bit.png" alt="Registro1_Bit" width="1200">
 </div>
 
 
 ### Registro 2:
 <div align="center">
-<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/Registro2-bit.png" alt="Registro2_Bit" width="1200">
+<img src="Fotos/Registro2-bit.png" alt="Registro2_Bit" width="1200">
 </div>
 
 
 ### Registro 3: 
 <div align="center">
-<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/Registro3-bit.png" alt="Registro3_Bit" width="1200">
+<img src="Fotos/Registro3-bit.png" alt="Registro3_Bit" width="1200">
 </div>
 
 
 ### Registro 4: 
 <div align="center">
-<img src="Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Fotos/Registro4-bit.png" alt="Registro4_Bit" width="1200">
+<img src="Fotos/Registro4-bit.png" alt="Registro4_Bit" width="1200">
 </div>
 
 
@@ -171,17 +170,17 @@ Esta lista de ejercicios será dictada con la ayuda de una segunda persona que l
 
 <h3 align="center"> Archivos de Bitalino </h3>
 
-1. [Registro 1 - bitalino](Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Se%C3%B1ales/EEG_Bitalino/Registro1.txt)
-2. [Registro 2 - bitalino](Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Se%C3%B1ales/EEG_Bitalino/Registro2.txt)
-3. [Registro 3 - bitalino](Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Se%C3%B1ales/EEG_Bitalino/Registro3.txt)
-4. [Registro 4 - bitalino](Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Se%C3%B1ales/EEG_Bitalino/Registro4.txt)
+1. [Registro 1 - Bitalino](Se%C3%B1ales/EEG_Bitalino/Registro1.txt)
+2. [Registro 2 - Bitalino](Se%C3%B1ales/EEG_Bitalino/Registro2.txt)
+3. [Registro 3 - Bitalino](Se%C3%B1ales/EEG_Bitalino/Registro3.txt)
+4. [Registro 4 - Bitalino](Se%C3%B1ales/EEG_Bitalino/Registro4.txt)
 
 <h3 align="center"> Archivos de OpenBCI </h3>
 
-1. [Registro 1 - OpenBCI](Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Se%C3%B1ales/EEG_OpenBCI/Registro1_OpenBCI)
-2. [Registro 2 - OpenBCI](Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Se%C3%B1ales/EEG_OpenBCI/Registro2_OpenBCI)
-3. [Registro 3 - OpenBCI](Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Se%C3%B1ales/EEG_OpenBCI/Registro3_OpenBCI)
-4. [Registro 4 - OpenBCI](Grupo_Se%C3%B1ales/Documentaci%C3%B3n/Laboratorio5/Se%C3%B1ales/EEG_OpenBCI/Registro4_OpenBCI)
+1. [Registro 1 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro1_OpenBCI)
+2. [Registro 2 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro2_OpenBCI)
+3. [Registro 3 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro3_OpenBCI)
+4. [Registro 4 - OpenBCI](Se%C3%B1ales/EEG_OpenBCI/Registro4_OpenBCI)
 
 ## Ploteo en Python_
     Agregar un notebook de las señales ploteadas en python.
