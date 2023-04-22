@@ -246,14 +246,14 @@ La señal de EEG registrada por Bitalino mostrará cambios en la actividad cereb
 <div align="center">
 <img src="Fotos/GABO_TIEMPO.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig15. Análisis en Bitalino de la señal en el tiempo.</p></em>
+<em><p align="center"> Fig14. Análisis en Bitalino de la señal en el tiempo.</p></em>
 
 ### Registro 2: 
 
 <div align="center">
 <img src="Fotos/GABO_TIEMPO_30S.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig14. Análisis en Bitalino de la señal, reposo por 30s con .</p></em>
+<em><p align="center"> Fig15. Análisis en Bitalino de la señal, reposo por 30s.</p></em>
 
 ### Registro 3: 
 
