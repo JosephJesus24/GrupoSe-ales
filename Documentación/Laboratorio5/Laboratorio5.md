@@ -237,21 +237,27 @@ La señal de EEG registrada por Bitalino mostrará cambios en la actividad cereb
 ### Registro 1: Completo (30 segundos)
 
 <div align="center">
-<img src="Fotos/GABO_TIEMPO.png" alt="Registro4_Bit" width="1200">
+<img src="Fotos/GABO_TIEMPO_30S.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig14. Análisis en Bitalino de la señal en el tiempo.</p></em>
+<em><p align="center"> Fig14. Análisis en Bitalino de la señal en el tiempo 30s.</p></em>
+ 
+El ploteo completo de la señal en un subplot de orden (1,3,n) para cada una de las señales del sujeto de prueba Gabriel Narvaez evidencia actividad de alta frecuencia debido al cambio abrupto de picos en la misma. Esta vista no se puede analizar de gran manera debido a lo comprimido que se ve la señal. 
+
 
 ### Registro 1: Zoom a las señales (4 segundos)
 
 <div align="center">
-<img src="Fotos/GABO_TIEMPO_30S.png" alt="Registro4_Bit" width="1200">
+ <img src="Fotos/GABO_TIEMPO.png" alt="Registro4_Bit" width="1200">
+
 </div>
-<em><p align="center"> Fig15. Análisis en Bitalino de la señal, reposo por 30s.</p></em>
+<em><p align="center"> Fig15. Análisis en Bitalino de la señal, zoom a un 4 segundos de señal .</p></em>
+ 
+Esta vista permite la identificación de artefactos y el comportamiento de la señal de mejor manera. Al ser los puntos F1 Y F2  los analizados para este ploteo deberían evidenciar la actividad emocional y el comportamiento cognitivo del paciente. Sin embar en esta vista se eviencia la aparición de picos extraños, estos son los llamados artefactos que hacen referencia la parpadeo. Si se sigue otro periodo de tiempo se volverá a encontrar. Además esto se evidencia en los videos tomados del compañero. El artefacot de parpadeo se evidencia en los 3 registros (Basal: estado de quietud mas no de baja respuesta a la luz; Parpadeo controlado; Cognitivo). La mayor variacion en bajas amplitudes pero altas frecuencias  se evidencia mejor en el registro 3.
 
 ### Análisis en frecuencia (FFT) 
 
 <div align="center">
-<img src="Fotos/GABO_FRECUENCIAS.png" alt="Registro4_Bit" width="1200">
+ <img src="Fotos/GABO_FRECUENCIAS.png" alt="Registro4_Bit" width="1200">
 </div>
 <em><p align="center"> Fig16. Análisis en Bitalino de la señal en la frecuencia.</p></em>
 
