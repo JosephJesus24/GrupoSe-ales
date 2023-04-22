@@ -234,21 +234,21 @@ La señal de EEG registrada por Bitalino mostrará cambios en la actividad cereb
 ## Ploteo en Python
 <h2 align="center"> Toma de regitros con Bitalino </h2>
 
-### Registro 1:
+### Registro 1: Completo (30 segundos)
 
 <div align="center">
 <img src="Fotos/GABO_TIEMPO.png" alt="Registro4_Bit" width="1200">
 </div>
 <em><p align="center"> Fig14. Análisis en Bitalino de la señal en el tiempo.</p></em>
 
-### Registro 2: 
+### Registro 1: Zoom a las señales (4s)
 
 <div align="center">
 <img src="Fotos/GABO_TIEMPO_30S.png" alt="Registro4_Bit" width="1200">
 </div>
 <em><p align="center"> Fig15. Análisis en Bitalino de la señal, reposo por 30s.</p></em>
 
-### Registro 3: 
+### Análisis en frecuencia (FFT) 
 
 <div align="center">
 <img src="Fotos/GABO_FRECUENCIAS.png" alt="Registro4_Bit" width="1200">
