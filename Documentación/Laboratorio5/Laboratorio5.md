@@ -183,24 +183,32 @@ Se realizaron los mismos ejercicios de registro de señales con el uso del Ultra
 <h2 align="center"> Toma de regitros con Bitalino </h2>
 
 ### Registro 1: 
+Señal evaluada cuando el paciente parpadea cada 5 segundos y tiene un tiempo de mantener abierto los ojos de 5 segundos.Se aprecia en el  Bitalino una interrupción breve y marcada de la actividad cortical en la región occipital del cerebro, conocida como la respuesta de parpadeo. Esta respuesta es más evidente en la banda de frecuencia alfa (8-13 Hz).
+
 <div align="center">
 <img src="Fotos/Registro1-bit.png" alt="Registro1_Bit" width="1200">
 </div>
 <em><p align="center"> Fig10. Registro1 en bitalino: Estado basal.</p></em>
 
 ### Registro 2:
+Se observa un aumento en la amplitud de la actividad de ondas cerebrales de baja frecuencia (alfa y theta) y una disminución en la amplitud de las ondas de alta frecuencia (beta y gamma). Esto refleja un estado de relajación y descanso en el cerebro. En un comienzo se aprecia un sesgo significativo puesto que la persona recién cerró sus ojos bruscamente.
+
 <div align="center">
 <img src="Fotos/Registro2-bit.png" alt="Registro2_Bit" width="1200">
 </div>
 <em><p align="center"> Fig11. Registro2 en bitalino: OJO ABIERTO/OJO CERRADO.</p></em>
 
 ### Registro 3: 
+Esta es la corroboración de la prueba R1, que fue cuando se evaluó al paciente con los 5 segundos de cerrar  y abrir sus ojos. Se puede apreciar una vista mas lejana de lo que sucede con las distintas ondas de frecuencia, muy similar al R1 mostrado(acortado)
+
 <div align="center">
 <img src="Fotos/Registro3-bit.png" alt="Registro3_Bit" width="1200">
 </div>
 <em><p align="center"> Fig12. Registro3 en bitalino: Estado reposo.</p></em>
 
-### Registro 4: 
+### Registro 4:
+La señal de EEG registrada por Bitalino mostrará cambios en la actividad cerebral que reflejan el procesamiento cognitivo involucrado en la resolución del problema matemático. Por teoría debería verse el aumento de la señal de ondas Beta en la región frontal del cerebro. También puede haber una disminución en la actividad de ondas alfa (8-13 Hz) en las regiones occipitales del cerebro, que se asocia con la relajación y la atención visual. Esto se apreciará con mas detalle y detenimiento en el EEG de OPENBCI GUI(Ultracortex).
+
 <div align="center">
 <img src="Fotos/Registro4-bit.png" alt="Registro4_Bit" width="1200">
 </div>
@@ -211,7 +219,7 @@ Se realizaron los mismos ejercicios de registro de señales con el uso del Ultra
 <h2 align="center"> Toma de regitros con Open BCI </h2>
 
 ### Registro 1: 
-### Registro 2: 
+### Registro 2:     
 ### Registro 3: 
 ### Registro 4: 
 
@@ -236,16 +244,16 @@ Se realizaron los mismos ejercicios de registro de señales con el uso del Ultra
 ### Registro 1:
 
 <div align="center">
-<img src="Fotos/GABO_TIEMPO_30S.png" alt="Registro4_Bit" width="1200">
+<img src="Fotos/GABO_TIEMPO.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig14. Análisis de la señal, reposo por 30s.</p></em>
+<em><p align="center"> Fig15. Análisis de la señal en el tiempo.</p></em>
 
 ### Registro 2: 
 
 <div align="center">
-<img src="Fotos/GABO_TIEMPO.png" alt="Registro4_Bit" width="1200">
+<img src="Fotos/GABO_TIEMPO_30S.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig15. Análisis de la señal en el tiempo.</p></em>
+<em><p align="center"> Fig14. Análisis de la señal, reposo por 30s.</p></em>
 
 ### Registro 3: 
 
