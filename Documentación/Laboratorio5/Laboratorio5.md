@@ -46,6 +46,27 @@ Cabe resaltar que se realizará una posterior evaluación del registro electroen
     - Breve explicación de las señales que analizaremos y como es su procedimiento de la toma de muestra (Como se usa el EEG, etc)
     - NO OLVIDAR REFERENCIAS
 
+La señal EEG (electroencefalograma) es una medida de la actividad eléctrica del cerebro, que se obtiene colocando electrodos en el cuero cabelludo del paciente[1]. Algunas de las características de la señal EEG son:
+
+* Frecuencia: La actividad eléctrica del cerebro se puede medir en diferentes frecuencias, que se corresponden con diferentes estados mentales. Estas frecuencias se clasifican en bandas: delta (< 4 Hz), theta (4-8 Hz), alpha (8-13 Hz), beta (13-30 Hz) y gamma (> 30 Hz).
+
+* Amplitud: esta varía en función de la cantidad de neuronas que están sincronizadas en una determinada frecuencia.
+
+* Morfología: La forma de la señal EEG se relaciona con la actividad eléctrica que se está produciendo en el cerebro en ese momento.
+
+* Coherencia: se refiere al grado de sincronización de la actividad eléctrica entre diferentes regiones del cerebro.
+
+* Artefactos: Las señales EEG pueden verse afectadas por artefactos, como el movimiento del paciente, la actividad muscular o los artefactos eléctricos de otros dispositivos cercanos. Es importante identificar y eliminar estos artefactos para obtener una señal EEG limpia y precisa.  
+
+* Otras características a resaltar son su capacidad para registrar la actividad eléctrica del cerebro con alta resolución temporal y su capacidad para medir la actividad cerebral tanto en reposo como durante la realización de una tarea cognitiva específica[2].También existirán ciertas limitaciones, como la necesidad de colocar electrodos en la cabeza del sujeto y la susceptibilidad a los artefactos de la señal, que pueden ser causados por movimientos o actividad muscular y ruidos generados por el mismo cabello del paciente.
+
+
+Según un paper review de analisis de EEG la actividad eléctrica será medida en voltios en diferentes puntos del cerebro a traves de distintos tipos de tecnicas de procesamiento de señales , esto nos permitirá arrojar data estadistica a cerca de las ondas cerebrales que existen y su relación con un numero variable de patologías[3]: Ondas delta, theta, alfa , beta y gamma, siendo entre las principales a encontrar en este laboratorio  las alfa y beta, puesto que estas son medibles  en un estado de relajación y alerta , y de actividad mental intensa como concentración , pensamiento  o resolución de problemas . Cabe resaltar que todas estas tienen relación con distintas patologías y con una buena lectura y analisis de señal se podria detectar, diagnosticar y monitorear una variedad de trastornos neurológicos, incluyendo epilepsia, trastornos del sueño, enfermedades cerebrales degenerativas, traumatismo craneal y trastornos psiquiátricos.
+<div align="center">
+<img src="Fotos/ondas_cerebrales.png" alt="Bitalino" width="500"> 
+</div>
+<em><p align="center"> Fig3. Ondas cerebrales.</p></em>
+ 
 ## Materiales
 Los materiales usados para el desarrollo de este laboratorio fueron 2 dispositivos capaces de medir señales de biopotenciales EEG, además fue necesario el uso de una laptop para poder registrar las señales tomadas por ambos dispositivos.
 
@@ -54,8 +75,8 @@ Los materiales usados para el desarrollo de este laboratorio fueron 2 dispositiv
 |Materiales |   Descripción      |Referencia         |
 |:---       |    :---:           |     :---:         |
 | Laptop    | PC portatil        | Cualquier modelo  |
-| Bitalino  |Kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal, para adquirir, procesar y visualizar datos biomédicos.|<img src="../../Imagenes/BITalino-Board.1_720x.webp" alt="Bitalino" width="500"> <em><p align="center"> Fig3. Bitalino.</p></em>|
-|Ultracortex EEG Headset |Dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.   |<img src="../../Imagenes/Ultracortex" alt="Bitalino" width="500"> <em><p align="center"> Fig4. Ultracortex EEG Headset.</p></em>|
+| Bitalino  |Kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal, para adquirir, procesar y visualizar datos biomédicos.|<img src="../../Imagenes/BITalino-Board.1_720x.webp" alt="Bitalino" width="500"> <em><p align="center"> Fig4. Bitalino.</p></em>|
+|Ultracortex EEG Headset |Dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.   |<img src="../../Imagenes/Ultracortex" alt="Bitalino" width="500"> <em><p align="center"> Fig5. Ultracortex EEG Headset.</p></em>|
 
 </div>
 
@@ -77,7 +98,7 @@ Las conexiones que se le hicieron a cada paciente de prueba fueron las siguiente
 |Paciente de prueba 1| Paciente de Prueba 2|
 |:---:               |                :---:|
 |   Gabriel Narvaez  |     Diego Celis     |
-|<img src="Fotos/conexion_bita2.jpg" alt="Conexion1_Bit" width="300"> <em><p align="center"> Fig5. Conexiones señaladas de Bitalino.</p></em> |   <img src="Fotos/conexion_ultra2.jpg" width="240"> <em><p align="center"> Fig6. Conexiones de Ultra Cortex según sistema 10/20.</p></em> |
+|<img src="Fotos/conexion_bita2.jpg" alt="Conexion1_Bit" width="300"> <em><p align="center"> Fig6. Conexiones señaladas de Bitalino.</p></em> |   <img src="Fotos/conexion_ultra2.jpg" width="240"> <em><p align="center"> Fig7. Conexiones de Ultra Cortex según sistema 10/20.</p></em> |
 </div>
 
 
@@ -90,7 +111,7 @@ Las conexiones que se le hicieron a cada paciente de prueba fueron las siguiente
 <img src="Fotos/Registros-bit.jpg" alt="Conexion1_Bit" width="1200">
 
 </div>
-<em><p align="center"> Fig7. Registros de ejercicios de Bitalino.</p></em>
+<em><p align="center"> Fig8. Registros de ejercicios de Bitalino.</p></em>
 
 ### 1. Registro de linea basal (30 segundos)
 Este registro consiste en la toma de muestra de señal EEG donde el usuario uno permaneció durante 30 segundos en reposo, con los ojos cerrados, sin ninguna distracción y con una respiración normal.
@@ -127,7 +148,7 @@ Esta lista de ejercicios será dictada con la ayuda de una segunda persona que l
 <img src="Fotos/Registros-OpenBCI.png" alt="Conexion2_Ultra" width="270">
 </div>
 
-<em><p align="center"> Fig8. Registros de ejercicios en OpenBCI.</p></em>
+<em><p align="center"> Fig9. Registros de ejercicios en OpenBCI.</p></em>
 
 Se realizaron los mismos ejercicios de registro de señales con el uso del UltraCortex y el software OpenBCI
 ### 1. Registro de linea basal (30 segundos)
@@ -167,25 +188,25 @@ Se realizaron los mismos ejercicios de registro de señales con el uso del Ultra
 <div align="center">
 <img src="Fotos/Registro1-bit.png" alt="Registro1_Bit" width="1200">
 </div>
-<em><p align="center"> Fig9. Registro1 en bitalino: Estado basal.</p></em>
+<em><p align="center"> Fig10. Registro1 en bitalino: Estado basal.</p></em>
 
 ### Registro 2:
 <div align="center">
 <img src="Fotos/Registro2-bit.png" alt="Registro2_Bit" width="1200">
 </div>
-<em><p align="center"> Fig10. Registro2 en bitalino: OJO ABIERTO/OJO CERRADO.</p></em>
+<em><p align="center"> Fig11. Registro2 en bitalino: OJO ABIERTO/OJO CERRADO.</p></em>
 
 ### Registro 3: 
 <div align="center">
 <img src="Fotos/Registro3-bit.png" alt="Registro3_Bit" width="1200">
 </div>
-<em><p align="center"> Fig11. Registro3 en bitalino: Estado reposo.</p></em>
+<em><p align="center"> Fig12. Registro3 en bitalino: Estado reposo.</p></em>
 
 ### Registro 4: 
 <div align="center">
 <img src="Fotos/Registro4-bit.png" alt="Registro4_Bit" width="1200">
 </div>
-<em><p align="center"> Fig12. Registro4 en bitalino: Resolución ejercicios matemáticos.</p></em>
+<em><p align="center"> Fig13. Registro4 en bitalino: Resolución ejercicios matemáticos.</p></em>
 
 
 
@@ -215,3 +236,12 @@ Se realizaron los mismos ejercicios de registro de señales con el uso del Ultra
 ## Ploteo en Python_
     Agregar un notebook de las señales ploteadas en python.
     Adjuntar un enlace directo al notebook
+
+---
+## Referencias Bibliográficas:
+
+1. Garza N, editor. Manual de laboratorio de fisiología. 6ª ed. McGraw Hill; 2015. Disponible en: https://accessmedicina.mhmedical.com/content.aspx?bookid=1722&sectionid=116884120
+
+2. Beres, A. M. (2017). Time is of the Essence: A Review of Electroencephalography (EEG) and Event-Related Brain Potentials (ERPs) in Language Research. Applied Psychophysiology and Biofeedback, 42(4), 247–255. doi:10.1007/s10484-017-9371-3
+
+3. Kaur, J., & Kaur, A. (2015). A review on analysis of EEG signals. 2015 International Conference on Advances in Computer Engineering and Applications. doi:10.1109/icacea.2015.7164844
