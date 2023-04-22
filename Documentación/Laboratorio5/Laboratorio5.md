@@ -85,10 +85,10 @@ Las conexiones que se le hicieron a cada paciente de prueba fueron las siguiente
 
 <div align="center">
 
-<img src="Fotos/conexion_bita2.jpg" alt="Conexion1_Bit" width="300">
+<img src="Fotos/Registros-bit.jpg" alt="Conexion1_Bit" width="1200">
 
 </div>
-<em><p align="center"> Fig2. Conexiones de Bitalino.</p></em>
+<em><p align="center"> Fig7. Registros de ejercicios de Bitalino.</p></em>
 
 ### Registro 1. Registro de linea basal (30 segundos)
 Este registro consiste en la toma de muestra de señal EEG donde el usuario uno permaneció durante 30 segundos en reposo, con los ojos cerrados, sin ninguna distracción y con una respiración normal.
@@ -110,11 +110,10 @@ Esta lista de ejercicios será dictada con la ayuda de una segunda persona que l
 
 <div align="center">
 
-<img src="Fotos/conexion_ultra2.jpg" alt="Conexion2_Ultra" width="270">
-
+<img src="Fotos/Registros-OpenBCI.png" alt="Conexion2_Ultra" width="270">
 </div>
 
-<em><p align="center"> Fig2. Conexiones de Bitalino.</p></em>
+<em><p align="center"> Fig8. Registros de ejercicios en OpenBCI.</p></em>
 
 ### Registro 1. Registro de linea basal (30 segundos)
 Este registro consiste en la toma de muestra de señal EEG donde el usuario uno permaneció durante 30 segundos en reposo, con los ojos cerrados, sin ninguna distracción y con una respiración normal.
@@ -129,7 +128,7 @@ Registro de reposo, similiar al primer registro, durante 30 segundos.
 Último registro, nuestro usuario se encargará de resolver una lista de ejercicios matemáticos mentalmente, mirando hacia un solo punto fijo para evitar distracciones.
 Esta lista de ejercicios será dictada con la ayuda de una segunda persona que los dirá en voz alta.
 ## Ploteo y Explicación de las señales
-    Aquí poner las capturas de los ploteos en Open BCI
+    Explicaciones de los ploteos y poner las capturas de los ploteos en Open BCI
 
 <h2 align="center"> Toma de regitros con Bitalino </h2>
 
@@ -137,25 +136,25 @@ Esta lista de ejercicios será dictada con la ayuda de una segunda persona que l
 <div align="center">
 <img src="Fotos/Registro1-bit.png" alt="Registro1_Bit" width="1200">
 </div>
-
+<em><p align="center"> Fig9. Registro1 en bitalino: Estado basal.</p></em>
 
 ### Registro 2:
 <div align="center">
 <img src="Fotos/Registro2-bit.png" alt="Registro2_Bit" width="1200">
 </div>
-
+<em><p align="center"> Fig10. Registro2 en bitalino: OJO ABIERTO/OJO CERRADO.</p></em>
 
 ### Registro 3: 
 <div align="center">
 <img src="Fotos/Registro3-bit.png" alt="Registro3_Bit" width="1200">
 </div>
-
+<em><p align="center"> Fig11. Registro3 en bitalino: Estado reposo.</p></em>
 
 ### Registro 4: 
 <div align="center">
 <img src="Fotos/Registro4-bit.png" alt="Registro4_Bit" width="1200">
 </div>
-
+<em><p align="center"> Fig12. Registro4 en bitalino: Resolución ejercicios matemáticos.</p></em>
 
 
 
