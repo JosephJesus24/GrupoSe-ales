@@ -43,8 +43,6 @@ Y para  la correcta medición del ULTRA CORTEX se requirió de una correcta cali
 Cabe resaltar que se realizará una posterior evaluación del registro electroencefalográfico a través de una codificación en python, pudiendo así obtener valores de suma importancia como son la amplitud y frecuencia de las distintas mediciones que se realizaron. Apuntaremos a la  identificación de las ondas alfa y beta, y las señales de interferencia.
 
 ## Marco Teórico
-    - Breve explicación de las señales que analizaremos y como es su procedimiento de la toma de muestra (Como se usa el EEG, etc)
-    - NO OLVIDAR REFERENCIAS
 
 La señal EEG (electroencefalograma) es una medida de la actividad eléctrica del cerebro, que se obtiene colocando electrodos en el cuero cabelludo del paciente[1]. Algunas de las características de la señal EEG son:
 
