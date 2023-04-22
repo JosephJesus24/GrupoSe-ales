@@ -99,11 +99,11 @@ Este registro consiste en la toma de muestra de señal EEG donde el usuario uno 
 Este registro consiste en la toma de muestra de señal EEG donde el usuario realizó un ciclo de parpadeo 5 veces. Cada momento en el que el usuario permanece con los ojos cerrados o con los ojos abiertos durará 5 segundos.
 
 <div align="center">
-    <video src="Documentación/Laboratorio5/Videos/Registro2_Bit.mp4">
+    https://user-images.githubusercontent.com/43487731/233763534-fe27df17-2006-4958-ab02-ca933bbe7df9.mp4
 </div>
 
 Registro2_Bit.mp4
-
+    
 ### 3. Registro de fase de referencia
 Registro de reposo, similiar al primer registro, durante 30 segundos.
 
