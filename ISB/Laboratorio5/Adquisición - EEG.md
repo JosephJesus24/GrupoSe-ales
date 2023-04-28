@@ -73,8 +73,8 @@ Los materiales usados para el desarrollo de este laboratorio fueron 2 dispositiv
 |Materiales |   Descripción      |Referencia         |
 |:---       |    :---:           |     :---:         |
 | Laptop    | PC portatil        | Cualquier modelo  |
-| Bitalino  |Kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal, para adquirir, procesar y visualizar datos biomédicos.|<img src="../../Imagenes/BITalino-Board.1_720x.webp" alt="Bitalino" width="500"> <em><p align="center"> Fig4. Bitalino.</p></em>|
-|Ultracortex EEG Headset |Dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.   |<img src="../../Imagenes/Ultracortex" alt="Bitalino" width="500"> <em><p align="center"> Fig5. Ultracortex EEG Headset.</p></em>|
+| Bitalino  |Kit de herramientas de prototipado rápido para proyectos de salud y bienestar personal, para adquirir, procesar y visualizar datos biomédicos.|<img src="Fotos/BITalino-Board.1_720x.webp" alt="Bitalino" width="500"> <em><p align="center"> Fig4. Bitalino.</p></em>|
+|Ultracortex EEG Headset |Dispositivo portátil que se coloca en la cabeza para medir la actividad eléctrica del cerebro y permitir la monitorización y análisis de las ondas cerebrales en tiempo real.   |<img src="../Laboratorio1/Archivos/Ultracortex" alt="Bitalino" width="500"> <em><p align="center"> Fig5. Ultracortex EEG Headset.</p></em>|
 
 </div>
 
@@ -178,8 +178,7 @@ Se realizaron los mismos ejercicios de registro de señales con el uso del Ultra
 <em><p align="center"> Video8. Ejercicio4 en OpenBCI.</p></em>
     
 ## Ploteo y Explicación de las señales
-    Explicaciones de los ploteos y poner las capturas de los ploteos en Open BCI
-    
+
 <h2 align="center"> Toma de regitros con Bitalino </h2>
 
 ### Registro 1: 

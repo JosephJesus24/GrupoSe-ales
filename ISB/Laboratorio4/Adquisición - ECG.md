@@ -133,26 +133,25 @@ Debemos tomar en cuenta que el estudio se realizo con un sistema bipolar de deri
 <em><p align="center">Señal Enfermedad Cardiovascular : Fibrilación Auricular Severa</p></em>
 
 ### Archivos - OpenSignals
-    
-[Señal_Paciente1_Reposo.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal4.txt)
+[Señal_Paciente1_Reposo.txt](Entregable4/Senal4.txt)
 
-[Señal_Paciente1_10Seg_Respiración.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal5.txt)
+[Señal_Paciente1_10Seg_Respiración.txt](Entregable4/Senal5.txt)
 
-[Señal_Paciente1_Ejercicio.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal6.txt)
+[Señal_Paciente1_Ejercicio.txt](Entregable4/Senal6.txt)
 
-[Señal_Paciente2_Reposo.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal1.txt)
+[Señal_Paciente2_Reposo.txt](Entregable4/Senal1.txt)
 
-[Señal_Paciente2_10Seg_Respiración.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal2.txt)
+[Señal_Paciente2_10Seg_Respiración.txt](Entregable4/Senal2.txt)
 
-[Señal_Paciente2_Ejercicio.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal3.txt) 
+[Señal_Paciente2_Ejercicio.txt](Entregable4/Senal3.txt) 
 
-[Señal_60.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal7.txt)
+[Señal_60.txt](Entregable4/Senal7.txt)
 
-[Señal_120.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal8.txt)
+[Señal_120.txt](Entregable4/Senal8.txt)
 
-[Señal_240.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal9.txt)
+[Señal_240.txt](Entregable4/Senal9.txt)
 
-[Señal_Enfermedad Auricular.txt](/Documentaci%C3%B3n/Laboratorio4/Entregable4/Senal10.txt)
+[Señal_Enfermedad Auricular.txt](Entregable4/Senal10.txt)
 
 
 ## Explicación de la señal ploteada
@@ -164,10 +163,10 @@ En las figuras del ECG Basal del participante 1 y 2 se observa que las frecuenci
 ## Ploteos en Python 
 ---
 **Paciente 1**
-![PLot_paciente 1](/Documentaci%C3%B3n/Laboratorio4/Repositorio/PlotMu%C3%B1oz.png) 
+![PLot_paciente 1](Repositorio/PlotMu%C3%B1oz.png) 
 
 **Paciente 2**
-![Plot_paciente 2](/Documentaci%C3%B3n/Laboratorio4/Repositorio/PlotCelis.png) 
+![Plot_paciente 2](Repositorio/PlotCelis.png) 
 
 ### Archivos - Python
  [Ploteos en código Python](https://colab.research.google.com/github/JosephJesus24/GrupoSe-ales/blob/main/Entregables/Laboratorio4/Repositorio/TrabajoLaboratorio4%20(3).ipynb)
