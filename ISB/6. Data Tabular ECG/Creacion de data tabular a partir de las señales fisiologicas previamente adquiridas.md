@@ -13,9 +13,21 @@ Laboratorio 6
 ---
 ## Tabla de Contenidos
 * [Introducción](#introducción)
+* [Objetivos](#objetivos)
 * [¿Por qué trabajar con datasets](#¿Por-qué-trabajar-con-datasets?)
+* [Señales analizadas](#señales-analizadas)
 * [Dataset](#Dataset)
 ---     
+
+## Introducción
+Este laboratorio tiene el proposito de la creación de Dataset de señales ECG que fueron analizadas en el laboratorio de *Adquisición de ECG*.
+
+Fueron analizadas las 3 señales de dos pacientes que fueron sujetos de prueba en la adquisión de ECG: **Paciente 1, Ricardo Muñoz** y **Paciente 2, Diego Celis.**
+
+## Objetivos
+* Analisis de 3 tipos de señales de adquisición de ECG: Estado Basal, Respiración y Post ejercicio.
+* Entender el formato de los dataset, un paso previo al uso de Machine Learning.
+* Creación de los dataset de las 3 señales.
 
 ## ¿Por qué trabajar con datasets?
 Tipos de estructuras conocidas para el manejo de señales en Python.
@@ -28,6 +40,18 @@ Tipos de estructuras conocidas para el manejo de señales en Python.
 Estas estructuras de datos son muy útiles para trabajar con machine learning en Python, ya que permiten manejar grandes cantidades de datos y realizar operaciones complejas de manera eficiente.
 
 En este caso, debido a la base de los integrantes del curso solo se conocen los arrays y los data frames. A manera de facilitar la adquisición de valores máximos, mínimos y plotear de manera sencilla en base a arreglos de datos específicos de cada paciente se trabajará además con **Pandas**, el cual permitirá agilizar el uso de Data Frames y agilizar la gestión del mismo. Este proceso es necesario para un futuro acercamiento en machine learning y manejo de grandes cantidades de data que serán adquiridas o trabajadas para el proyecto del curso.
+
+## Señales Analizadas
+
+<div align="center"> 
+
+|Paciente 1|Paciente 2|
+|:---:|:---:|
+|[Estado Basal](Se%C3%B1ales%20ECG/Basal_pac1.txt)|[Estado Basal](Grupo_Se%C3%B1ales/ISB/6.%20Data%20Tabular%20ECG/Se%C3%B1ales%20ECG/Senal5.txt)|
+|[Respiración](Grupo_Se%C3%B1ales/ISB/6.%20Data%20Tabular%20ECG/Se%C3%B1ales%20ECG/Respiracion_pac1.txt)|[Respiración](Grupo_Se%C3%B1ales/ISB/6.%20Data%20Tabular%20ECG/Se%C3%B1ales%20ECG/Senal2.txt)|
+|[Post Ejercicio](Grupo_Se%C3%B1ales/ISB/6.%20Data%20Tabular%20ECG/Se%C3%B1ales%20ECG/Post_ejercicio_pac1.txt)|[Post Ejercicio](Grupo_Se%C3%B1ales/ISB/6.%20Data%20Tabular%20ECG/Se%C3%B1ales%20ECG/Senal3.txt)|
+</div>
+
 
 ## Dataset
 Dentro del grupo esta semana se tuvieron algunas discrepancias en cuanto al tipo de dataset que tendríamos que tener para el correcto trabajo de las señales por lo que buscamos feedback del profesor y se hicieron 2 tipos de datasets finales. 
