@@ -31,10 +31,16 @@ En este caso, debido a la base de los integrantes del curso solo se conocen los 
 
 ## Dataset
 * [Paciente1](https://github.com/JosephJesus24/GrupoSe-ales/blob/1ef70b85704a4b0131ad54f3e17c52475e21076d/ISB/6.%20Data%20Tabular%20ECG/Data%20tabular%20ECG%20-%20Paciente%201%20(Ricardo).ipynb)
+<div align="center">
+<img src="Imagenes/DabaseRicardoMu%C3%B1oz.JPG" alt="Conexion1_Bit" width="500"> 
+</div>
 
 
 * [Paciente2](https://github.com/JosephJesus24/GrupoSe-ales/blob/1ef70b85704a4b0131ad54f3e17c52475e21076d/ISB/6.%20Data%20Tabular%20ECG/Data%20tabular%20ECG%20-%20Paciente%202%20(Diego).ipynb)
 
+<div align="center">
+<img src="Imagenes/DabaseCelis.JPG" alt="Conexion1_Bit" width="500"> 
+</div>
 
 
 
