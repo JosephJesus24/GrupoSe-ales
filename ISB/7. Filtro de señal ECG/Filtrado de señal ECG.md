@@ -12,7 +12,7 @@ Laboratorio 7
 * Ricardo Alonso Muñoz Quiroz-ricardo.munoz@upch.pe
 ---
 ## Tabla de Contenidos
-1. [Conceptos] 
+1. [Conceptos](https://github.com/JosephJesus24/GrupoSe-ales/blob/main/ISB/7.%20Filtro%20de%20se%C3%B1al%20ECG/file.md#Conceptos)
 
 
 ## Conceptos
