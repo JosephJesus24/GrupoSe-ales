@@ -12,7 +12,7 @@ Laboratorio 7
 * Ricardo Alonso Muñoz Quiroz-ricardo.munoz@upch.pe
 ---
 ## Tabla de Contenidos
-1. [Conceptos](https://github.com/JosephJesus24/GrupoSe-ales/blob/main/ISB/7. Filtro de señal/Filtrado de señal ECG.md#Conceptos)
+1. [Conceptos](#Conceptos)
 
 
 ## Conceptos
