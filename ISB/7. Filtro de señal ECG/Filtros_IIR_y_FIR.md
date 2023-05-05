@@ -13,7 +13,7 @@ Laboratorio 7
 ---
 ## Tabla de Contenidos
 1. [Conceptos](#Conceptos)
-  1.1 [Que es un filtro?](#Que es un filtro?)
+  * [Que es un filtro?](#Que es un filtro?)
 
 
 ## Conceptos
