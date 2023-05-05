@@ -13,7 +13,7 @@ Laboratorio 7
 ---
 ## Tabla de Contenidos
 1. [Conceptos](#Conceptos)
-      * [Que es un filtro?](#Que-es-un-filtro?)
+2. [Tabla de resumen](#Tabla-de-resumen)
 
 
 ## Conceptos
@@ -53,4 +53,7 @@ La señal de entrada se convierte en una señal digital mediante un convertidor 
 1-Filtros FIR: Los filtros FIR (Finite Impulse Response, en inglés) tienen una respuesta finita al impulso y se caracterizan por una respuesta de fase lineal. Estos filtros se diseñan utilizando una respuesta de impulso finita y son ideales para aplicaciones en las que se requiere una respuesta de fase lineal y una alta precisión en el filtrado de señales. Los filtros FIR se pueden implementar utilizando convolución y su diseño es relativamente sencillo.
 
 2-Filtros IIR: Los filtros IIR (Infinite Impulse Response, en inglés) tienen una respuesta infinita al impulso y se caracterizan por una respuesta de fase no lineal. Estos filtros se diseñan utilizando una retroalimentación de la salida al filtro y son ideales para aplicaciones en las que se requiere una alta selectividad y una respuesta de frecuencia no lineal. Los filtros IIR son más complejos de diseñar y pueden presentar problemas de estabilidad, por lo que se requiere una atención cuidadosa durante su diseño.
+
+
+## Tabla resumen
 
