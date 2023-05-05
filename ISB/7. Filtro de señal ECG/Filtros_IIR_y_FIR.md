@@ -13,7 +13,7 @@ Laboratorio 7
 ---
 ## Tabla de Contenidos
 1. [Conceptos](#Conceptos)
-2. [Tabla de resumen](#Tabla-de-resumen)
+2. [Tabla_de_resumen](#Tabla-de-resumen)
 
 
 ## Conceptos
