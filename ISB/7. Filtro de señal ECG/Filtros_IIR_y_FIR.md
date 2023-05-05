@@ -13,7 +13,7 @@ Laboratorio 7
 ---
 ## Tabla de Contenidos
 1. [Conceptos](#Conceptos)
-   * [Que_es_un_filtro](https://github.com/JosephJesus24/GrupoSe-ales/blob/main/ISB/7.%20Filtro%20de%20se%C3%B1al%20ECG/Filtros_IIR_y_FIR.md#tabla-resumen)
+   * [Que es un filtro](https://github.com/JosephJesus24/GrupoSe-ales/blob/main/ISB/7.%20Filtro%20de%20se%C3%B1al%20ECG/Filtros_IIR_y_FIR.md#tabla-resumen)
 2. [Tabla de resumen](https://github.com/JosephJesus24/GrupoSe-ales/blob/main/ISB/7.%20Filtro%20de%20se%C3%B1al%20ECG/Filtros_IIR_y_FIR.md#tabla-resumen)
 
 
