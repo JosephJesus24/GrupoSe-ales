@@ -1,0 +1,31 @@
+# biosignalsnotebooks own package for loading and plotting the acquired data
+import biosignalsnotebooks as bsnb
+
+# Scientific packages
+from numpy import arange, sin, pi
+from numpy.random import randn
+
+# Load of data
+data, header = bsnb.load("/Senales bitalino/Senal_basal_Muñoz.h5", get_header=True)
+
+# The data file is loaded as a Python dictionary, where each key indicates the 
+# channel of the acquisition. In the next line we get the channel where the 
+# ECG data was acquired.
+channel = list(data.keys())[0]
+
+# The header is also in the form of a Python dictionary. The next line saves 
+# the sampling frequency of the acquired data
+fs = header["sampling rate"]
+# Resolution of the sensor (number of available bits)
+resolution = header['resolution'][0]
+
+# Signal Samples
+signal_raw = data[channel]
+time = bsnb.generate_time(signal_raw, fs)
+
+# Let's convert the signal's units, since we know it is a ECG signal
+signal = bsnb.raw_to_phy("ECG", "biosignalsplux", signal_raw, resolution, "mV")
+
+# Creating a Butterworth filter with order 3 and low-pass frequency of 300 Hz
+lfilter_signal = bsnb.lowpass(signal, 300, order=3)
+filtfilt_signal = bsnb.lowpass(signal, 300, order=3, use_filtfilt=True)
