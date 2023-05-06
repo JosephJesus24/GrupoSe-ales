@@ -49,7 +49,7 @@ Un filtro digital es un tipo de filtro que utiliza técnicas de procesamiento di
 La señal de entrada se convierte en una señal digital mediante un convertidor analógico-digital, y luego se aplica un algoritmo de filtrado digital para filtrar la señal. Los filtros digitales pueden ser implementados en hardware mediante procesadores digitales de señales (DSP) o en software mediante algoritmos de procesamiento de señales en una computadora.
 
 
-### Clasificacion de filtros digittales
+### Clasificacion de filtros digitales
 
 1-Filtros FIR: Los filtros FIR (Finite Impulse Response, en inglés) tienen una respuesta finita al impulso y se caracterizan por una respuesta de fase lineal. Estos filtros se diseñan utilizando una respuesta de impulso finita y son ideales para aplicaciones en las que se requiere una respuesta de fase lineal y una alta precisión en el filtrado de señales. Los filtros FIR se pueden implementar utilizando convolución y su diseño es relativamente sencillo.
 
@@ -60,3 +60,9 @@ La señal de entrada se convierte en una señal digital mediante un convertidor 
 
 
 ## Referencias
+1- Willis J. Tompkins. Biomedical digital signal procesing.Prentice Hall,
+may, 1993. 
+2- Xilinx The progamable logic databook. SPARTAN3 , marzo 2 de 2007. 
+3- Digital signal processing toolbox. The MathWorks Inc., 1992-2001.
+4- J. G., Proakis, Dimitris G. Manolakis. Tratamiento digital de señales.
+Prentice Hall, 1997
