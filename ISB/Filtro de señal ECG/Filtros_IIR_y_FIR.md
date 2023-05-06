@@ -31,7 +31,8 @@ Es importante destacar que los filtros son una herramienta fundamental en la ing
 Un filtro activo es un tipo de filtro que utiliza componentes activos como amplificadores operacionales, transistores o amplificadores de instrumentación para mejorar sus características de filtrado. A diferencia de los filtros pasivos, que utilizan componentes pasivos como resistencias, capacitores e inductores, los filtros activos pueden proporcionar una mayor precisión y un mayor control en la respuesta de frecuencia.
 
 La principal ventaja de los filtros activos es su capacidad para amplificar la señal mientras se filtra, lo que permite una mayor eficiencia y precisión en la señal de salida. Además, los filtros activos pueden ser diseñados para tener una respuesta de frecuencia más nítida y precisa, lo que los hace ideales para aplicaciones que requieren una alta precisión de filtrado.
-![Filtro_activo](ISB/5. Adquisición EEG/Fotos/GABO_FRECUENCIAS.png)
+
+![Filtro_activo.png](ISB/5. Adquisición EEG/Fotos/GABO_FRECUENCIAS.png)
 
 ### Clasificacion de los filtros activos (Segun su aproximacion matematica) 
 
