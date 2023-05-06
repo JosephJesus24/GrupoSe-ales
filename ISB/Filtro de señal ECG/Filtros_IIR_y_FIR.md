@@ -64,7 +64,10 @@ La señal de entrada se convierte en una señal digital mediante un convertidor 
 ## Referencias
 1- Willis J. Tompkins. Biomedical digital signal procesing.Prentice Hall,
 may, 1993. 
+
 2- Xilinx The progamable logic databook. SPARTAN3 , marzo 2 de 2007. 
+
 3- Digital signal processing toolbox. The MathWorks Inc., 1992-2001.
+
 4- J. G., Proakis, Dimitris G. Manolakis. Tratamiento digital de señales.
 Prentice Hall, 1997
