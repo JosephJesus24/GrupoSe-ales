@@ -61,7 +61,9 @@ La señal de entrada se convierte en una señal digital mediante un convertidor 
 Para la realización del filtrado de las señales se hizo uso de los archivos .txt recopilados durante la adiquisición de las señales ECG.
 
 [Señal Basal](C%C3%B3digos%20de%20filtrado/Basal_pac1.txt)
+
 [Señal Respiracion](C%C3%B3digos%20de%20filtrado/Respiracion_pac1.txt)
+
 [Señal Post Ejercicio](C%C3%B3digos%20de%20filtrado/Post_ejercicio_pac1.txt)
 
 Las señales usadas fueron del paciente 1, y para la recopilación de las señales se hizo el mismo procedimiento para la creación de la Dataset.
