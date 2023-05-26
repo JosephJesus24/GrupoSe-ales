@@ -90,9 +90,14 @@ Se hizo uso de dos tipos de Filtros IIR (Filtro Butterwoth) y FIR (Filtro Hammin
 | :---         |     :---:      |      :---:      | :---         |
 | Reposo         |![Reposo](Imagenes/Basal.png)| ![Reposo_IIR](Imagenes/Basal%20-%20Butterworth.png)|![Reposo_FIR](Imagenes/Basal%20-%20Hamming.png)|
 | Respiración aguantada |![Respiracion](Imagenes/Respiracion.png) | ![Resp_IIR](Imagenes/Respiracion%20-%20Butterworth.png) | ![Resp_FIR](Imagenes/Respiracion%20-%20Hamming.png)|
-| Post Ejercicio     |![Ejercicio](Imagenes/Ejercicio.png) | ![Ejer_IIR](Imagenes/Ejercicio.png)|![Ejer_FIR](Imagenes/Ejercicio%20-%20Hamming.png)|     
-
+| Post Ejercicio     |![Ejercicio](Imagenes/Ejercicio.png) | ![Ejer_IIR](Imagenes/Ejercicio.png)|![Ejer_FIR](Imagenes/Ejercicio%20-%20Hamming.png)|    
 </div>
+
+---
+Se realizaron cambios en el notebook de los filtros:
+Se utilizó el dataset del entregable 6 y se filtro desde ahí.
+
+[Filtros IIR y FIR](Filtros.ipynb)
 
 ## Referencias
 1. Willis J. Tompkins. Biomedical digital signal procesing.Prentice Hall,
