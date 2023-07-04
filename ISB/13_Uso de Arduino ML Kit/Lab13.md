@@ -58,11 +58,21 @@ Esta plataforma proporciona las herramientas necesarias para recopilar datos, en
 ## Procedimiento:
 <h3 align> 1. Adquision de imagenes del integrante del equipo Gabriel y Ricardo </h3>
 
+![Alt text](<Repositorio/SampleG.jpg>)
+![Alt text](<Repositorio/SampleR.jpg>)
 <h3 align> 2. Carga de imagenes de losdos participantes en Edge impluse </h3>   
 
+![Alt text](<Repositorio/Data.jpg>)
+  
 <h3 align> 3. Creacion  del impulso </h3>
 
+![Alt text](<Repositorio/impulso.jpg>)
+
 <h3 align> 4. Entrenamiento del modelo </h3>
+
+![Alt text](<Repositorio/entre2.jpg>)
+![Alt text](<Repositorio/entr2.jpg>)
+
 
 ---
 ## Resultados y Discusión:
