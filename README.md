@@ -22,7 +22,6 @@ Tabla de contenidos:
 - [Resumen](#resumen)
 - [Motivación](#motivación)
 - [Principales hallazgos](#principales-hallazgos)
-  - [Docentes del curso](#docentes-del-curso)
 ---
 
 ## Resumen
@@ -53,12 +52,21 @@ En este estudio se propone buscar una solución para la navegación en línea pa
 ---
      
 ## Principales hallazgos
-<p align="justify"> 
-Para la recolección de señales SSVEP con el equipo "Ultracortex Mark IV", se utilizaron electrodos colocados estratégicamente en el cuero cabelludo, incluyendo los electrodos O1 y O2 para captar las señales EEG. Estos electrodos se seleccionaron debido a su ubicación en áreas asociadas con la actividad visual y la respuesta a estímulos visuales. El equipo "Ultracortex Mark IV" proporcionó una interfaz de alta calidad para adquirir las señales EEG de manera precisa y confiable. 
+**La viabilidad de utilizar señales SSVEP para la selección de letras**: Se demostró que es posible capturar y procesar las señales EEG relacionadas con la respuesta SSVEP mientras un usuario mira una letra específica en la pantalla. Esto indica que las señales SSVEP pueden utilizarse como una modalidad de interacción efectiva para la selección de letras.
 
-</p>  
+**Desafíos en el procesamiento de señales EEG**: Se identificaron los desafíos asociados con el procesamiento de las señales EEG capturadas, como el filtrado de ruido, la eliminación de artefactos y la normalización de los datos. Estos desafíos requieren el desarrollo de técnicas de procesamiento de señales adecuadas para obtener una señal EEG limpia y confiable.
 
-Para el preprocesamiento de las señales EEG capturadas fue necesario el uso de bibliotecas como NumPy y SciPy, aplicamos técnicas de filtrado, eliminación de artefactos y normalización. Estas técnicas nos permitieron mejorar la calidad de las señales, reducir el ruido y preparar los datos para su análisis posterior. 
+**Importancia de la selección de características relevantes**: Se reconoció la importancia de identificar y extraer características relevantes de las señales EEG para mejorar la precisión de la clasificación. Se investigaron diversas técnicas de extracción de características, como la transformada de Fourier y la potencia espectral, para distinguir las respuestas SSVEP en diferentes frecuencias.
+
+**Limitaciones en la precisión de la clasificación**: Aunque se logró clasificar las respuestas SSVEP en cierta medida, los resultados no alcanzaron la precisión esperada. Esto sugiere que se necesitan investigaciones adicionales y mejoras en los algoritmos de clasificación para lograr una mayor precisión en la identificación de la letra seleccionada por el usuario.
+
+<div align="center">
+<img src="image.png" alt="Canales EEG" width="500">
+
+*fig 1. Error de filtrado de las señales EEG extraídas de la muestra A.*
+</div>
+
+
 
 ---
 
@@ -67,9 +75,25 @@ Para el preprocesamiento de las señales EEG capturadas fue necesario el uso de 
 [2] César, J., & Carrera, G. (2020). ARTÍCULO ORIGINAL 6 An Fac med. 81(1), 6–13. https://doi.org/10.15381/anales.v81i1.16852 
 
 ---
-    
 
-### Docentes del curso
+<h3 align="justify"> 
+Aquí encontrará los enlaces a los códigos utilizados durante el proyecto
+</h3>
+
+- [Interfaz gráfica](<Software/Codigos py/Interfaz_GráficaSSVEP.py>)
+- [Filtrado de las señales](<Software/Codigos py/Filter_channels.ipynb>)
+- [Muestras EEG recopiladas](Software/Se%C3%B1ales)
+
+<h3 align="justify"> 
+Materiales
+</h3>
+
+- [Software](Software/README.md)
+- [Hardware](Hardware/README.md)
+
+<h3 align="justify"> 
+Docentes del curso
+</h3>
 
 - Lewis de la Cruz - umbert.de.la.cruz@upch.pe
 - Moises Meza - moises.meza@upch.pe
