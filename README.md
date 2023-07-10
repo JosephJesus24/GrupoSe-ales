@@ -22,7 +22,6 @@ Tabla de contenidos:
 - [Resumen](#resumen)
 - [Motivaci처n](#motivaci처n)
 - [Principales hallazgos](#principales-hallazgos)
-- [Contexto mundial y nacional](#contexto-mundial-y-nacional)
 - [Docentes del curso](#docentes-del-curso)
 ---
 
@@ -49,14 +48,7 @@ En esta investigaci처n, se explor처 la implementaci처n de un sistema de selecci�
 </p>  
      
 ---
-     
-### Contexto mundial y nacional
-<p align="justify"> 
-
-
-</p>
-     
----
+    
 
 ### Docentes del curso
 
